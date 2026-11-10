@@ -1,0 +1,88 @@
+# Checks every push and PR. On main it also publishes the web app to the
+# gh-pages branch (GitHub Pages "deploy from a branch"; no Actions artifacts).
+# A pushed v* tag builds the Android APK and attaches it to a GitHub Release.
+name: CI
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: 3.47.9
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - run: dart format --output=none --set-exit-if-changed lib test tool
+      - run: flutter analyze
+      - run: flutter test
+
+  web:
+    needs: check
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: 3.47.9
+          channel: stable
+          cache: true
+      - name: Bundle the latest feed as the offline fallback
+        run: curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/data/events.json" -o assets/events.json || true
+      - run: flutter build web --release --base-href "/${GITHUB_REPOSITORY#*/}/"
+      - name: Publish to gh-pages
+        run: |
+          cd build/web
+          cp index.html 404.html
+          touch .nojekyll
+          git init -q -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Deploy ${GITHUB_SHA}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
+
+  android:
+    needs: check
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: 3.47.9
+          channel: stable
+          cache: true
+      - name: Bundle the latest feed as the offline fallback
+        run: curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/data/events.json" -o assets/events.json || true
+      - run: flutter build apk --release
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          apk="SD-Tech-Events-${GITHUB_REF_NAME}.apk"
+          cp build/app/outputs/flutter-apk/app-release.apk "$apk"
+          sha256sum "$apk" > "$apk.sha256"
+          gh release create "$GITHUB_REF_NAME" "$apk" "$apk.sha256" \
+            --prerelease --title "SD Tech Events ${GITHUB_REF_NAME#v} (Android preview)" \
+            --notes "Preview build of commit ${GITHUB_SHA}. Download the APK on your phone and open it to install (allow installs from your browser if asked). Debug-signed; not a Play Store build."
