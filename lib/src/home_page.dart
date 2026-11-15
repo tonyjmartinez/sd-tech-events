@@ -170,6 +170,7 @@ class _HomePageState extends State<HomePage> {
                       tooltip: 'Clear search',
                       icon: const Icon(Icons.close),
                       onPressed: () {
+                        _debounce?.cancel();
                         _search.clear();
                         _setFilter(_filter.copyWith(query: ''));
                       },
@@ -258,6 +259,7 @@ class _HomePageState extends State<HomePage> {
         if (!_filter.isDefault)
           TextButton(
             onPressed: () {
+              _debounce?.cancel();
               _search.clear();
               _setFilter(const EventFilter());
             },

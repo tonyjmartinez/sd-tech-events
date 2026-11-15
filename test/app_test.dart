@@ -111,4 +111,52 @@ void main() {
       expect(find.text('Open on Luma'), findsOneWidget);
     },
   );
+
+  testWidgets('clearing search cancels a pending query', (tester) async {
+    await tester.pumpWidget(
+      MaterialApp(
+        home: HomePage(repository: FakeRepository(), clock: () => now),
+      ),
+    );
+    await tester.pumpAndSettle();
+
+    await tester.enterText(find.byType(TextField), 'python');
+    await tester.pump(const Duration(milliseconds: 200));
+    expect(find.text('Online Python Study Group'), findsOneWidget);
+    expect(find.text('San Diego JavaScript Monthly'), findsNothing);
+
+    await tester.enterText(find.byType(TextField), 'zzznomatch987');
+    await tester.pump(const Duration(milliseconds: 50));
+    await tester.tap(find.byTooltip('Clear search'));
+    await tester.pump(const Duration(milliseconds: 300));
+
+    final input = tester.widget<TextField>(find.byType(TextField));
+    expect(input.controller!.text, isEmpty);
+    expect(find.text('No events match.'), findsNothing);
+    expect(find.text('San Diego JavaScript Monthly'), findsOneWidget);
+    expect(find.byTooltip('Clear search'), findsNothing);
+  });
+
+  testWidgets('clearing filters cancels a pending query', (tester) async {
+    await tester.pumpWidget(
+      MaterialApp(
+        home: HomePage(repository: FakeRepository(), clock: () => now),
+      ),
+    );
+    await tester.pumpAndSettle();
+
+    await tester.enterText(find.byType(TextField), 'zzznomatch987');
+    await tester.pump(const Duration(milliseconds: 200));
+    expect(find.text('No events match.'), findsOneWidget);
+
+    await tester.enterText(find.byType(TextField), 'python');
+    await tester.pump(const Duration(milliseconds: 50));
+    await tester.tap(find.text('Clear filters'));
+    await tester.pump(const Duration(milliseconds: 300));
+
+    final input = tester.widget<TextField>(find.byType(TextField));
+    expect(input.controller!.text, isEmpty);
+    expect(find.text('San Diego JavaScript Monthly'), findsOneWidget);
+    expect(find.text('Online Python Study Group'), findsOneWidget);
+  });
 }
