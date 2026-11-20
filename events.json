@@ -1,267 +1,11 @@
 {
- "updated": "2026-11-19T20:46:43.506360Z",
+ "updated": "2026-11-20T07:29:03.423109Z",
  "sources": {
-  "meetup": 115,
-  "eventbrite": 0,
-  "luma": 25
+  "meetup": 109,
+  "eventbrite": 56,
+  "luma": 19
  },
  "events": [
-  {
-   "id": "eventbrite:2002650110390",
-   "source": "eventbrite",
-   "title": "BlueTech Week 2026: Where Capability Meets Opportunity",
-   "start": "2026-11-16T16:00:00.000Z",
-   "end": "2026-11-20T04:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/bluetech-week-2026-where-capability-meets-opportunity-tickets-2002650110390",
-   "venue": "San Diego, Multiple Locations",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195227299%2F2314872073263%2F1%2Foriginal.20261006-214837?auto=format%2Ccompress&q=75&sharp=10&s=05007861d858ac8104a5358ef1ef7739",
-   "description": "Mobilizing the Maritime Innovation Ecosystem Around Defense, Ocean Intelligence, Emerging Capability & Pathways to Deployment"
-  },
-  {
-   "id": "eventbrite:1972878730391",
-   "source": "eventbrite",
-   "title": "Test our space and meet the neighbors!",
-   "start": "2026-11-19T17:00:00.000Z",
-   "end": "2026-11-20T01:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/test-our-space-and-meet-the-neighbors-tickets-1972878730391",
-   "venue": "701 Palomar Airport Rd, 701 Palomar Airport Road",
-   "city": "Carlsbad",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171197439%2F2983779161272%2F1%2Foriginal.20251117-233928?auto=format%2Ccompress&q=75&sharp=10&s=a2acec2cdb2dbffe70d865d4c4b6a311",
-   "description": "Come tour, try out the office and meet the neighbors to see if the space is right for you. No obligation and free space for the day!"
-  },
-  {
-   "id": "meetup:317443278",
-   "source": "meetup",
-   "title": "Build an Online Income With AI: Free Live Workshop",
-   "start": "2026-11-19T20:30:00.000Z",
-   "end": "2026-11-19T21:30:00.000Z",
-   "url": "https://www.meetup.com/how-to-start-a-business-with-shopify-ai/events/317443278/",
-   "organizer": "AI Side Hustles & Online Business—San Diego",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/e/2/6/3/highres_537177955.jpeg",
-   "description": "REGISTER HERE\n\n💰 FREE LIVE WORKSHOP: AI Side Hustles, Shopify Dropshipping & Online Income\n\n💻 100% Online $1 ✅ Free to Attend $1 🔴 Live Q&A\n\nWant to make money online, start a Shopify dropshipping business, or explore a second income with AI?\n\nJoin this free, beginner-friendly workshop to learn about online business models, e-commerce, and side hustles you can research alongside your current commitments.\n\nZahid will introduce Shopify, dropshipping, Amazon FBA, digital products, affiliate marketing, and AI-powered business ideas.\n\nYou’ll learn how AI tools can support product research,…",
-   "free": true
-  },
-  {
-   "id": "meetup:317261981",
-   "source": "meetup",
-   "title": "Heal Well Fest X Community Health & STEM Fest",
-   "start": "2026-11-19T21:00:00.000Z",
-   "end": "2026-11-20T01:00:00.000Z",
-   "url": "https://www.meetup.com/blacktechlink/events/317261981/",
-   "organizer": "Black Tech Link",
-   "venue": "Grossmont College, 8800 Grossmont College Dr, El Cajon, CA 92020, USA",
-   "city": "El Cajon",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/2/5/1/0/highres_536949488.jpeg",
-   "description": "HealWellFest × Community Health & STEM Fest is a free, family-friendly health, wellness, and career resource fair presented in partnership by Black Tech Link and the San Diego Black Business Network.\nThe event combines two signature initiatives: the San Diego Black Business Network’s HealWellFest, focused on health, wellness, and access to community services, and Black Tech Link’s Community Health & STEM Fest, which promotes STEM education, workforce development, and health resources.\nTogether, these initiatives connect residents with healthcare professionals, employers, educational…",
-   "free": true
-  },
-  {
-   "id": "meetup:317187111",
-   "source": "meetup",
-   "title": "How to Strategize and Execute Your Job Search with AI in One Hour",
-   "start": "2026-11-19T23:00:00.000Z",
-   "end": "2026-11-20T00:00:00.000Z",
-   "url": "https://www.meetup.com/san-diego-entrepreneur-and-investor-network/events/317187111/",
-   "organizer": "San Diego Entrepreneur and Investor Network",
-   "online": true,
-   "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event ($7+)\nIn order to attend, please register here:\n\nhttps://www.eventbrite.com/e/2003645635031?aff=oddtdtcreator\n\nMost people take weeks or even months to organize their job search. In the AI era, the market moves so fast that by the time you’ve figured out your plan, everything has changed—and you’re stuck pivoting again. The result? Job…",
-   "free": true
-  },
-  {
-   "id": "meetup:317317398",
-   "source": "meetup",
-   "title": "BUILD YOUR OWN AI AGENT | NOV 19 | UC SAN DIEGO |  FREE NETWORKING + PIZZA",
-   "start": "2026-11-20T00:00:00.000Z",
-   "end": "2026-11-20T02:00:00.000Z",
-   "url": "https://www.meetup.com/san-diego-ieee-meetup/events/317317398/",
-   "organizer": "IEEE - San Diego Section Meetup",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/1/5/3/1/highres_537005425.jpeg",
-   "description": "Stop Watching AI Demos. Build Your Own AI Agent!\n60 minutes. One working AI agent. Skills you can actually use.\nJoin us at UC San Diego for a hands-on AI workshop followed by FREE networking with engineers, researchers, entrepreneurs, and startup founders.\n📅 Thursday$1 November 19$1 2026 $1 4–6 PM\n📍 The Basement, Room 151, UC San Diego\n\n$1$1$1 🤖 4–5 PM $1 BUILD YOUR AI AGENT\nNo coding expertise required. Bring your laptop!\n✅ Build a working AI agent you can take home\n✅ Connect to real-world tools and 700+ integrations\n✅ Learn AI safety, human approvals & audit trails\n✅ Gain practical skills…",
-   "free": true
-  },
-  {
-   "id": "meetup:317424224",
-   "source": "meetup",
-   "title": "💃 Free Spanish Conversation Practice",
-   "start": "2026-11-20T01:00:00.000Z",
-   "end": "2026-11-20T02:00:00.000Z",
-   "url": "https://www.meetup.com/founders-san-diego/events/317424224/",
-   "organizer": "🤝 Founders for Founders | San Diego",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/a/2/a/1/highres_535481633.jpeg",
-   "description": "¡Hola! 👋\n\nLooking for a friendly place to practise speaking Spanish and meet new people? You are in the right place.\n\nJoin us for free Spanish conversation practice in small, welcoming groups. All levels are welcome, from beginners finding their first words to fluent speakers who want to keep their Spanish alive. No textbooks, no tests and no pressure, just real conversation with real people.\n\nWhat to expect:\n$1 Small group chats$1 so everyone gets plenty of speaking time\n$1 Friendly hosts who keep the conversation flowing and help when you get stuck\n$1 Everyday topics: life$1 travel$1…",
-   "free": true
-  },
-  {
-   "id": "meetup:317266704",
-   "source": "meetup",
-   "title": "AI Alignment and Control: Risks as AI Surpasses Human Abilities",
-   "start": "2026-11-20T01:00:00.000Z",
-   "end": "2026-11-20T02:30:00.000Z",
-   "url": "https://www.meetup.com/ai-safety-awareness-group-san-diego/events/317266704/",
-   "organizer": "AI Safety Awareness Group San Diego",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/3/f/2/a/highres_536956170.jpeg",
-   "description": "A free, 90-minute online workshop—no technical background needed\nAI is no longer just getting better at narrow tasks. Today's systems can write, code, reason through problems, and increasingly take actions on their own, and AI is starting to move into the physical world through robotics. Many researchers believe we are heading toward AI that matches or exceeds human abilities across a wide range of areas.\nThat raises two of the most important questions in AI today. Can we make sure these systems actually do what we intend (alignment)? And can we keep the ability to oversee, correct, or stop…",
-   "free": true
-  },
-  {
-   "id": "meetup:317450107",
-   "source": "meetup",
-   "title": "The October 2026 Jobs Report/Inflation Updates + Election Recap",
-   "start": "2026-11-20T01:00:00.000Z",
-   "end": "2026-11-20T02:00:00.000Z",
-   "url": "https://www.meetup.com/san-diego-entrepreneur-and-investor-network/events/317450107/",
-   "organizer": "San Diego Entrepreneur and Investor Network",
-   "online": true,
-   "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\nhttps://www.eventbrite.com/e/the-october-2026-jobs-reportinflation-updates-tickets-1994107915455?aff=oddtdtcreator&keeptld=true\n\nThe US economy is constantly evolving, influenced by employment numbers, the rise and fall of inflation, foreign…",
-   "free": true
-  },
-  {
-   "id": "eventbrite:1994238347581",
-   "source": "eventbrite",
-   "title": "SDSU Entrepreneurship Mixer",
-   "start": "2026-11-20T01:00:00.000Z",
-   "end": "2026-11-20T03:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/sdsu-entrepreneurship-mixer-tickets-1994238347581",
-   "venue": "Aztec Lanes, 6075 Aztec Circle Drive",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189912911%2F2998923169431%2F1%2Foriginal.20260729-210853?auto=format%2Ccompress&q=75&sharp=10&s=97dfd2d980367b838743f0c44798ccc6",
-   "description": "Come meet potential teammates, co-founders, and interns!"
-  },
-  {
-   "id": "luma:evt-oB4kecCLtuRXAXA",
-   "source": "luma",
-   "title": "PostHog @ UC San Diego",
-   "start": "2026-11-20T01:00:00.000Z",
-   "end": "2026-11-20T03:00:00.000Z",
-   "url": "https://luma.com/hj9qodbn",
-   "organizer": "CSES at UC San Diego",
-   "venue": "Computer Science and Engineering Building, 3235 Voigt Dr, La Jolla, CA 92093, USA",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/a8/ba0c07a4-6867-44e7-b37c-a76352a7dd18.png",
-   "free": true
-  },
-  {
-   "id": "luma:evt-wPAvVegXpjDJORM",
-   "source": "luma",
-   "title": "Happy Hour with Privy, Bridge, & Tempo",
-   "start": "2026-11-20T02:00:00.000Z",
-   "end": "2026-11-20T05:00:00.000Z",
-   "url": "https://luma.com/privy-mgdu",
-   "organizer": "Privy, a Stripe company",
-   "venue": "Nolita Hall, 2305 India St, San Diego, CA 92101, USA",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/1x/437d55ba-3568-446a-a995-35ce51dbe592.png",
-   "free": true
-  },
-  {
-   "id": "meetup:317492548",
-   "source": "meetup",
-   "title": "Introduction to Inner Engineering (Free online Webinar)",
-   "start": "2026-11-20T02:00:00.000Z",
-   "end": "2026-11-20T03:15:00.000Z",
-   "url": "https://www.meetup.com/isha-yoga-inner-engineering-san-diego-yoga-meditation/events/317492548/",
-   "organizer": "Inner Engineering San Diego (Isha Yoga & Meditation Classes)",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/5/e/1/7/highres_537204087.jpeg",
-   "description": "To RSVP, please click here.\nOnce you click on this link, please provide your email address and you will receive an email with details on how you can join the webinar.\n\nSign up for the free webinar that provides information about the Inner Engineering program. It features an introductory talk, which is designed by Sadhguru and a Q&A session with an Isha teacher.\n\nDuration: 75 minutes.\nOpen to all aged 18 yrs and above.",
-   "free": true
-  },
-  {
-   "id": "luma:evt-xPcz1IflostNOVo",
-   "source": "luma",
-   "title": "Fintech NerdCon Dinner with Casap x Valli Ventures",
-   "start": "2026-11-20T02:30:00.000Z",
-   "end": "2026-11-20T05:30:00.000Z",
-   "url": "https://luma.com/wuz7alwz",
-   "organizer": "Valli Ventures",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/n9/b288c3c4-91fb-4dfd-be00-b6a04d8fd33f.png",
-   "description": "Helping B2B tech founders build teams, GTM strategy & founder community for scalable growth.",
-   "free": true
-  },
-  {
-   "id": "meetup:312625648",
-   "source": "meetup",
-   "title": "Stock Talk - Crypto",
-   "start": "2026-11-20T03:00:00.000Z",
-   "end": "2026-11-20T05:00:00.000Z",
-   "url": "https://www.meetup.com/sdbell/events/312625648/",
-   "organizer": "Black Entrepreneurs Leaders & Learners (BELL)",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/5/9/4/2/highres_509062850.jpeg",
-   "description": "Join us as we talk about the Stock Market and Crypto!",
-   "free": true
-  },
-  {
-   "id": "meetup:317262954",
-   "source": "meetup",
-   "title": "SDPy Monthly Meetup (Date Change)",
-   "start": "2026-11-20T03:00:00.000Z",
-   "end": "2026-11-20T04:30:00.000Z",
-   "url": "https://www.meetup.com/pythonsd/events/317262954/",
-   "organizer": "San Diego Python Users Group",
-   "venue": "Qualcomm Building Q, 6455 Lusk Blvd, San Diego, CA 92121, USA",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/2/c/9/2/highres_536951410.jpeg",
-   "description": "IMPORTANT: The date changed to the 3rd Thursday due to the Thanksgiving holiday.\n\nWe will be at Qualcomm Building Q (indoor amphitheater). The event will also be live-streamed to our YouTube channel. Pizza will be provided by Cloudflare.\n\nGETTING INTO THE VENUE\nGo through the entryway through the cafe to the big stadium seating conference room toward the back of the building. You may need help getting into the building as the door does lock. However, security knows we are meeting so just explain that you're here for San Diego Python!\n\nAGENDA\nWe will be doing 5-7 minute lightning talks If you…",
-   "free": true
-  },
-  {
-   "id": "luma:evt-AkpfMUFGfFKUwot",
-   "source": "luma",
-   "title": "Stable Drinks with TBMC, Utila, Notabene & Coinbax | FinTech Nerdcon",
-   "start": "2026-11-20T03:00:00.000Z",
-   "end": "2026-11-20T05:30:00.000Z",
-   "url": "https://luma.com/stabledrinks",
-   "organizer": "Utila x TBMC x Notabene x Coinbax",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2j/e92f436f-e455-45b5-b3b1-2d01ba4520a9.png",
-   "description": "We look forward to seeing you at Fintech Nerdcon and welcoming you to our co-hosted happy hour!",
-   "free": true
-  },
-  {
-   "id": "luma:evt-AQt8mNK5oNqvwZI",
-   "source": "luma",
-   "title": "Paper Club #7: Weight-Space Programming",
-   "start": "2026-11-20T03:00:00.000Z",
-   "end": "2026-11-20T05:00:00.000Z",
-   "url": "https://luma.com/devx-paper-club-nov-19-2026",
-   "organizer": "DEVx",
-   "venue": "11988 El Camino Real, San Diego, CA 92130, USA",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/9i/d179e163-e7b9-45a1-ab0b-164dd48dd42c.png",
-   "description": "DEVx is San Diego's tech community for makers who care about solving problems and growing with eachother.",
-   "free": true
-  },
-  {
-   "id": "luma:evt-fRo3dJrgvoBXuqO",
-   "source": "luma",
-   "title": "SpaceX Mission: USSF-317",
-   "start": "2026-11-20T03:45:00.000Z",
-   "end": "2026-11-20T05:45:00.000Z",
-   "url": "https://luma.com/3qvs04cr",
-   "organizer": "Shyaam Nanthan",
-   "venue": "Black's Beach, California 92037, USA",
-   "city": "San Diego County",
-   "online": false,
-   "image": "https://images.unsplash.com/photo-1541186877-bb5a745edde5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxMHx8Um9ja2V0fGVufDF8fHx8MTc5NTAzOTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-   "free": true
-  },
   {
    "id": "meetup:317220599",
    "source": "meetup",
@@ -307,6 +51,19 @@
    "free": true
   },
   {
+   "id": "eventbrite:1999926766796",
+   "source": "eventbrite",
+   "title": "Future Health, Medical Technology & Biohacking Festival™ in San Diego",
+   "start": "2026-11-20T17:00:00.000Z",
+   "end": "2026-11-23T02:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/future-health-medical-technology-biohacking-festivaltm-in-san-diego-tickets-1999926766796",
+   "venue": "San Diego Marriott La Jolla, 4240 La Jolla Village Drive",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192812870%2F3005601342688%2F1%2Foriginal.20260906-110717?auto=format%2Ccompress&q=75&sharp=10&s=65d666e351e9ce6dd7a15f0b2cefc172",
+   "description": "Dive into the future of health and biohacking at San Diego’s coolest medical tech fest—hands-on and in person!"
+  },
+  {
    "id": "eventbrite:2000107277709",
    "source": "eventbrite",
    "title": "HAPPY STARTUP™ – Connecting Startups, Investors & Universities | San Diego",
@@ -320,17 +77,17 @@
    "description": "Meet, mingle, and spark ideas with startups, investors, and unis at HAPPY STARTUP™ San Diego!"
   },
   {
-   "id": "eventbrite:1999926766796",
+   "id": "eventbrite:1992322293612",
    "source": "eventbrite",
-   "title": "Future Health, Medical Technology & Biohacking Festival™ in San Diego",
-   "start": "2026-11-20T17:00:00.000Z",
-   "end": "2026-11-23T02:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/future-health-medical-technology-biohacking-festivaltm-in-san-diego-tickets-1999926766796",
-   "venue": "San Diego Marriott La Jolla, 4240 La Jolla Village Drive",
+   "title": "\"STARTUP-INVESTOR PITCH LUNCH\" -  FUNDRAISING PROGRAM IN SILICON VALLEY",
+   "start": "2026-11-20T18:00:00.000Z",
+   "end": "2026-11-21T02:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/startup-investor-pitch-lunch-fundraising-program-in-silicon-valley-tickets-1992322293612",
+   "venue": "San Diego Convention Center, 111 Harbor Drive",
    "city": "San Diego",
    "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192812870%2F3005601342688%2F1%2Foriginal.20260906-110717?auto=format%2Ccompress&q=75&sharp=10&s=65d666e351e9ce6dd7a15f0b2cefc172",
-   "description": "Dive into the future of health and biohacking at San Diego’s coolest medical tech fest—hands-on and in person!"
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186839766%2F2986344604542%2F1%2Foriginal.20260613-212116?auto=format%2Ccompress&q=75&sharp=10&s=c8e2d57300a912061022f2074853bd44",
+   "description": "Customized Online Fundraising and Go-To-Market Program for Global Startups"
   },
   {
    "id": "eventbrite:2004171789774",
@@ -357,6 +114,19 @@
    "image": "https://secure.meetupstatic.com/photos/event/6/1/0/7/highres_536964839.jpeg",
    "description": "Small teams lose hours to follow-ups and data entry. Danyal shows San Diego owners how to automate client emails and reminders with Claude, keep the CRM updated without retyping, and add checks so everything goes out right.\n\nWhat we'll cover:\n• Spotting the busywork worth automating first\n• Follow-up emails and reminders Claude writes and schedules for you\n• Keeping your CRM up to date without typing it in by hand (GoHighLevel shown as an example)\n• Simple checks so nothing goes out wrong\n\nFormat: Live on Google Meet with business owners from San Diego and the Bridges Network. We work through…",
    "free": true
+  },
+  {
+   "id": "eventbrite:1985762054761",
+   "source": "eventbrite",
+   "title": "AI SAFETY LAB - SILICON VALLEY",
+   "start": "2026-11-20T20:00:00.000Z",
+   "end": "2026-11-20T22:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/ai-safety-lab-silicon-valley-tickets-1985762054761",
+   "venue": "San Diego Convention Center, 111 Harbor Drive",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180501610%2F29817277049%2F1%2Foriginal.20260323-194051?auto=format%2Ccompress&q=75&sharp=10&s=1fdce130540abd7ea02ce3db56b28230",
+   "description": "Learn How to Use AI Safely and Stay in Control"
   },
   {
    "id": "meetup:317304770",
@@ -400,17 +170,30 @@
    "free": true
   },
   {
-   "id": "luma:evt-UzjxZl9AVhyWEaT",
-   "source": "luma",
-   "title": "EcoNova Hacks",
-   "start": "2026-11-21T18:00:00.000Z",
-   "end": "2026-11-23T02:00:00.000Z",
-   "url": "https://luma.com/ngp87mr4",
-   "organizer": "Ashray Gowda Mahadeva",
-   "venue": "330 Park Blvd, San Diego, CA 92101, USA",
-   "city": "San Diego",
+   "id": "eventbrite:1984810371250",
+   "source": "eventbrite",
+   "title": "Dinner with Entrepreneurs Monthly: El Cajon",
+   "start": "2026-11-21T03:00:00.000Z",
+   "end": "2026-11-21T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/dinner-with-entrepreneurs-monthly-el-cajon-tickets-1984810371250",
+   "venue": "Restaurant of the Month, East Main Street",
+   "city": "El Cajon",
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/u7/e964567e-a8fc-4fdf-a4ac-95e8e3f0cc6a.png",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1093134103%2F2665070848231%2F1%2Foriginal.20250811-190130?auto=format%2Ccompress&q=75&sharp=10&s=905734d4de27c4ec415e9bb5a0efc8a6",
+   "description": "Join us for a cozy dinner with entrepreneurs to network, share experiences, and make new connections! Meet your next collaborator here."
+  },
+  {
+   "id": "luma:evt-fRo3dJrgvoBXuqO",
+   "source": "luma",
+   "title": "SpaceX Mission: USSF-317",
+   "start": "2026-11-21T03:30:00.000Z",
+   "end": "2026-11-21T05:30:00.000Z",
+   "url": "https://luma.com/3qvs04cr",
+   "organizer": "Shyaam Nanthan",
+   "venue": "Black's Beach, California 92037, USA",
+   "city": "San Diego County",
+   "online": false,
+   "image": "https://images.unsplash.com/photo-1541186877-bb5a745edde5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxMHx8Um9ja2V0fGVufDF8fHx8MTc5NTAzOTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
    "free": true
   },
   {
@@ -441,19 +224,6 @@
    "free": true
   },
   {
-   "id": "meetup:317242546",
-   "source": "meetup",
-   "title": "🌍 English Practice | Meet Friends (Professional Host)",
-   "start": "2026-11-21T18:00:00.000Z",
-   "end": "2026-11-21T19:00:00.000Z",
-   "url": "https://www.meetup.com/founders-san-diego/events/317242546/",
-   "organizer": "🤝 Founders for Founders | San Diego",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/8/5/f/1/highres_535354289.jpeg",
-   "description": "Practice English online in a fun, supportive space, for free!\nGet real-time speaking experience, meet new people, and improve fast with guided feedback.\n🔑 What to Expect:\n✅ Live 1-on-1 Conversations\n\n Chat with different partners at your level\n Each round = 3-5 min vocab warmup + 12 min speaking\n Repeat and improve with every session!\n\n✅ AI Matching + Feedback\n\n Our smart system pairs you with learners at the same level\n Get instant tips & corrections on pronunciation, vocabulary and grammar.\n\n✅ Come & Go Anytime\n\n Stay for one round or all four, you’re always welcome!\n\n💬 Why Learners Love…",
-   "free": true
-  },
-  {
    "id": "meetup:317242249",
    "source": "meetup",
    "title": "REMOTE: Pyladies/San Diego PUG Co-Study Group",
@@ -466,17 +236,17 @@
    "free": true
   },
   {
-   "id": "eventbrite:2004048139934",
-   "source": "eventbrite",
-   "title": "Scripps Institution of Oceanography 2026 Public Tours",
+   "id": "meetup:317242546",
+   "source": "meetup",
+   "title": "🌍 English Practice | Meet Friends (Professional Host)",
    "start": "2026-11-21T18:00:00.000Z",
    "end": "2026-11-21T19:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/scripps-institution-of-oceanography-2026-public-tours-tickets-2004048139934",
-   "venue": "Scripps Institution of Oceanography, 8630 Kennel Way",
-   "city": "La Jolla",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176092012%2F4999805350%2F1%2Foriginal.20260128-194438?auto=format%2Ccompress&q=75&sharp=10&s=ebb0269c15ae759227bf2a1d76568801",
-   "description": "Come learn more about this jewel of the UC system; we invite you to join our 1-hour public tour on the 3rd Saturday of every month."
+   "url": "https://www.meetup.com/founders-san-diego/events/317242546/",
+   "organizer": "🤝 Founders for Founders | San Diego",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/8/5/f/1/highres_535354289.jpeg",
+   "description": "Practice English online in a fun, supportive space, for free!\nGet real-time speaking experience, meet new people, and improve fast with guided feedback.\n🔑 What to Expect:\n✅ Live 1-on-1 Conversations\n\n Chat with different partners at your level\n Each round = 3-5 min vocab warmup + 12 min speaking\n Repeat and improve with every session!\n\n✅ AI Matching + Feedback\n\n Our smart system pairs you with learners at the same level\n Get instant tips & corrections on pronunciation, vocabulary and grammar.\n\n✅ Come & Go Anytime\n\n Stay for one round or all four, you’re always welcome!\n\n💬 Why Learners Love…",
+   "free": true
   },
   {
    "id": "meetup:317329914",
@@ -553,6 +323,19 @@
    "free": true
   },
   {
+   "id": "meetup:317492651",
+   "source": "meetup",
+   "title": "Introduction to Inner Engineering (Free online Webinar)",
+   "start": "2026-11-22T20:00:00.000Z",
+   "end": "2026-11-22T21:15:00.000Z",
+   "url": "https://www.meetup.com/isha-yoga-inner-engineering-san-diego-yoga-meditation/events/317492651/",
+   "organizer": "Inner Engineering San Diego (Isha Yoga & Meditation Classes)",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/5/e/7/c/highres_537204188.jpeg",
+   "description": "To RSVP, please click here.\nOnce you click on this link, please provide your email address and you will receive an email with details on how you can join the webinar.\n\nSign up for the free webinar that provides information about the Inner Engineering program. It features an introductory talk, which is designed by Sadhguru and a Q&A session with an Isha teacher.\n\nDuration: 75 minutes.\nOpen to all aged 18 yrs and above.",
+   "free": true
+  },
+  {
    "id": "meetup:317304805",
    "source": "meetup",
    "title": "PASSIVE INCOME WITH AI: FREE LIVE WEBINAR",
@@ -593,45 +376,17 @@
    "free": true
   },
   {
-   "id": "eventbrite:2003100134424",
+   "id": "eventbrite:2003457157289",
    "source": "eventbrite",
-   "title": "Future Founders",
-   "start": "2026-11-24T00:00:00.000Z",
-   "end": "2026-11-24T02:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/future-founders-tickets-2003100134424",
-   "venue": "Pizza On Pearl North Park, 3914 30th Street",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196635222%2F345448664331%2F1%2Foriginal.20261026-212001?auto=format%2Ccompress&q=75&sharp=10&s=3c8fe0d24b68edaaf58a96cd23d6a677",
-   "description": "Get ready to brainstorm big ideas and meet fellow future founders in a chill, fun hangout."
-  },
-  {
-   "id": "meetup:317476782",
-   "source": "meetup",
-   "title": "💃 Free Spanish Conversation Practice",
-   "start": "2026-11-24T01:00:00.000Z",
-   "end": "2026-11-24T02:00:00.000Z",
-   "url": "https://www.meetup.com/founders-san-diego/events/317476782/",
-   "organizer": "🤝 Founders for Founders | San Diego",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/a/2/a/1/highres_535481633.jpeg",
-   "description": "¡Hola! 👋\n\nLooking for a friendly place to practise speaking Spanish and meet new people? You are in the right place.\n\nJoin us for free Spanish conversation practice in small, welcoming groups. All levels are welcome, from beginners finding their first words to fluent speakers who want to keep their Spanish alive. No textbooks, no tests and no pressure, just real conversation with real people.\n\nWhat to expect:\n$1 Small group chats$1 so everyone gets plenty of speaking time\n$1 Friendly hosts who keep the conversation flowing and help when you get stuck\n$1 Everyday topics: life$1 travel$1…",
-   "free": true
-  },
-  {
-   "id": "meetup:317059937",
-   "source": "meetup",
-   "title": "BioTech, Pharma, MedTech Networking & Pitch Mixer",
+   "title": "San Diego BioTech, Pharma, MedTech Networking & Pitch Mixer",
    "start": "2026-11-24T03:00:00.000Z",
-   "end": "2026-11-24T05:00:00.000Z",
-   "url": "https://www.meetup.com/san-diego-startups-pitch-and-networking-group/events/317059937/",
-   "organizer": "San Diego Startups Pitch and Networking Group",
-   "venue": "Craft & Commerce, 675 W Beech St, San Diego, CA 92101, USA",
+   "end": "2026-11-24T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/san-diego-biotech-pharma-medtech-networking-pitch-mixer-tickets-2003457157289",
+   "venue": "Craft & Commerce, 675 West Beech Street",
    "city": "San Diego",
    "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/1/d/0/1/highres_536707425.jpeg",
-   "description": "✨ To join this event, please make sure to book your ticket here 👉 https://www.eventbrite.com/e/san-diego-biotech-pharma-medtech-networking-pitch-mixer-tickets-2003457157289\n\nSpaces are limited, and only registered guests with a ticket will be able to attend. Don’t miss out!\n\nConnect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.\nJoin us for a high-impact evening bringing together BioTech and Pharma founders, researchers, investors, operators, and industry experts. This event blends fast, focused startup pitches with high-quality networking…",
-   "free": true
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195862651%2F2682446774211%2F1%2Foriginal.20261015-132712?auto=format%2Ccompress&q=75&sharp=10&s=16a9199a1ae0e06456e2da4ddafc7465",
+   "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking."
   },
   {
    "id": "eventbrite:2003461169289",
@@ -647,17 +402,19 @@
    "description": "Connect with Industry Professionals, Startup Founders, Investors, Researchers & Innovators Shaping the Future of Healthcare!"
   },
   {
-   "id": "eventbrite:2003457157289",
-   "source": "eventbrite",
-   "title": "San Diego BioTech, Pharma, MedTech Networking & Pitch Mixer",
+   "id": "meetup:317059937",
+   "source": "meetup",
+   "title": "BioTech, Pharma, MedTech Networking & Pitch Mixer",
    "start": "2026-11-24T03:00:00.000Z",
-   "end": "2026-11-24T06:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/san-diego-biotech-pharma-medtech-networking-pitch-mixer-tickets-2003457157289",
-   "venue": "Craft & Commerce, 675 West Beech Street",
+   "end": "2026-11-24T05:00:00.000Z",
+   "url": "https://www.meetup.com/san-diego-startups-pitch-and-networking-group/events/317059937/",
+   "organizer": "San Diego Startups Pitch and Networking Group",
+   "venue": "Craft & Commerce, 675 W Beech St, San Diego, CA 92101, USA",
    "city": "San Diego",
    "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195862651%2F2682446774211%2F1%2Foriginal.20261015-132712?auto=format%2Ccompress&q=75&sharp=10&s=16a9199a1ae0e06456e2da4ddafc7465",
-   "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking."
+   "image": "https://secure.meetupstatic.com/photos/event/1/d/0/1/highres_536707425.jpeg",
+   "description": "✨ To join this event, please make sure to book your ticket here 👉 https://www.eventbrite.com/e/san-diego-biotech-pharma-medtech-networking-pitch-mixer-tickets-2003457157289\n\nSpaces are limited, and only registered guests with a ticket will be able to attend. Don’t miss out!\n\nConnect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.\nJoin us for a high-impact evening bringing together BioTech and Pharma founders, researchers, investors, operators, and industry experts. This event blends fast, focused startup pitches with high-quality networking…",
+   "free": true
   },
   {
    "id": "meetup:317286406",
@@ -755,6 +512,32 @@
    "free": true
   },
   {
+   "id": "meetup:317294663",
+   "source": "meetup",
+   "title": "Felicita Toastmasters Club in Escondido",
+   "start": "2026-11-25T03:00:00.000Z",
+   "end": "2026-11-25T04:30:00.000Z",
+   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317294663/",
+   "organizer": "Founder's District (previously District 5 Toastmasters)",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/c/1/8/0/highres_18169536.jpeg",
+   "description": "1. Come in and be a guest!\n2. Have fun!\n\nVisitors are always welcome at our meetings. We meet every Tuesday from 7:00 pm to 8:30 pm.\n\nWe currently meet online only.\n\nFor more information about our Toastmasters Club and/or attending a meeting, please contact shadpour@gmail.com",
+   "free": true
+  },
+  {
+   "id": "eventbrite:1976753483883",
+   "source": "eventbrite",
+   "title": "Big Ballers: Dinner with Entrepreneurs | San Diego (Giving Back Edition)",
+   "start": "2026-11-25T03:00:00.000Z",
+   "end": "2026-11-25T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/big-ballers-dinner-with-entrepreneurs-san-diego-giving-back-edition-tickets-1976753483883",
+   "venue": "Restaurant of the Week, India Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1150621023%2F2665070848231%2F1%2Foriginal.20251011-094257?auto=format%2Ccompress&q=75&sharp=10&s=3c1668d5e1bc85b3ed2a7950ce35d8c1",
+   "description": "Join us for a cozy dinner with local entrepreneurs to network, share experiences, & make new connections while giving back to those in need!"
+  },
+  {
    "id": "meetup:317301515",
    "source": "meetup",
    "title": "1 Million Cups - Entrepreneurs present their ideas to the community each week",
@@ -783,18 +566,54 @@
    "free": true
   },
   {
-   "id": "meetup:317309242",
-   "source": "meetup",
-   "title": "FQ10 Toastmasters Meeting",
-   "start": "2026-11-26T03:15:00.000Z",
-   "end": "2026-11-26T04:15:00.000Z",
-   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317309242/",
-   "organizer": "Founder's District (previously District 5 Toastmasters)",
-   "venue": "Fitness Quest 10 North, 10625 Scripps Poway Pkwy",
-   "city": "San Diego",
+   "id": "eventbrite:2003330736160",
+   "source": "eventbrite",
+   "title": "Adapted to Survive",
+   "start": "2026-11-25T20:00:00.000Z",
+   "end": "2026-11-25T21:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/adapted-to-survive-tickets-2003330736160",
+   "venue": "Oceanside Art Collective, 427 South Coast Highway",
+   "city": "Oceanside",
    "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/3/b/b/c/highres_532695292.jpeg",
-   "description": "Want to grow your confidence and communication skills—while having fun?\nCome check out an FQ10 Toastmasters meeting! We’re a friendly, supportive group where you can practice speaking, meet new people, and build real connections.\nWhen: Every Wednesday at 7:15 PM in person!\nWhere: Fitness Quest 10 North\n📍 10625 Scripps Poway Pkwy, San Diego, CA 92131\nWhat to Expect:\n\n A warm, welcoming community that cheers you on every step of the way.\n Opportunities to practice public speaking in a safe and supportive space.\n Fun impromptu questions connected to the evening’s theme.\n No pressure—feel free to…",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195663751%2F2985970103256%2F1%2Foriginal.20261013-043456?auto=format%2Ccompress&q=75&sharp=10&s=c0db5cc8bdc4e366a578ff8c05ae16f6",
+   "description": "Explore how different animals survive in their habitats"
+  },
+  {
+   "id": "meetup:317508495",
+   "source": "meetup",
+   "title": "💃 Free Spanish Conversation Practice",
+   "start": "2026-11-26T01:00:00.000Z",
+   "end": "2026-11-26T02:00:00.000Z",
+   "url": "https://www.meetup.com/founders-san-diego/events/317508495/",
+   "organizer": "🤝 Founders for Founders | San Diego",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/a/2/a/1/highres_535481633.jpeg",
+   "description": "¡Hola! 👋\n\nLooking for a friendly place to practise speaking Spanish and meet new people? You are in the right place.\n\nJoin us for free Spanish conversation practice in small, welcoming groups. All levels are welcome, from beginners finding their first words to fluent speakers who want to keep their Spanish alive. No textbooks, no tests and no pressure, just real conversation with real people.\n\nWhat to expect:\n$1 Small group chats$1 so everyone gets plenty of speaking time\n$1 Friendly hosts who keep the conversation flowing and help when you get stuck\n$1 Everyday topics: life$1 travel$1…",
+   "free": true
+  },
+  {
+   "id": "meetup:317508414",
+   "source": "meetup",
+   "title": "D5 is now Founder's District",
+   "start": "2026-11-26T01:00:00.000Z",
+   "end": "2026-11-26T02:00:00.000Z",
+   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317508414/",
+   "organizer": "Founder's District (previously District 5 Toastmasters)",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/1/8/2/2/highres_537186178.jpeg",
+   "description": "District 5 Toastmasters clubs are now part of Founder's District.\n\nD5 Meetup is Moving to Founder's District Meetup.\nThis exciting change means all of our clubs' meetings (and Meetups) will be hosted on a new page: https://www.meetup.com/founders-district-toastmasters/\n\nTo get all the latest event announcements and join active clubs, head over to the Founder's District meetup today. Become a member of the meetup to receive event announcements, become an organizer, and to join fellow members across Orange and San Diego counties.\n\nIf you are a VPPR, President or VPM please add yourself to…",
+   "free": true
+  },
+  {
+   "id": "meetup:317308300",
+   "source": "meetup",
+   "title": "Golden Triangle Toastmasters",
+   "start": "2026-11-26T01:30:00.000Z",
+   "end": "2026-11-26T02:30:00.000Z",
+   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317308300/",
+   "organizer": "Founder's District (previously District 5 Toastmasters)",
+   "online": true,
+   "description": "JOIN Golden Triangle Toastmasters for the BEST HOUR of your week! We meet every Wednesday from 5:30-6:45pm ONLINE!\n\nWe are a FUN diverse group that practices public speaking in a safe and friendly environment. And did we mention we like to have FUN!?!?\n\nToastmasters is an International Organization of clubs dedicated to empowering individuals to become more effective communicators, polished public speakers and leaders, all in a fun, safe, inclusive, and supportive environment.\n\nThe meeting includes: Formal speeches, Speech Evaluations and Impromptu speaking opportunities for guests and…",
    "free": true
   },
   {
@@ -848,21 +667,6 @@
    "free": true
   },
   {
-   "id": "meetup:317328117",
-   "source": "meetup",
-   "title": "Hardhats Toastmasters: Meeting In-Person AND Virtually",
-   "start": "2026-11-27T15:00:00.000Z",
-   "end": "2026-11-27T16:30:00.000Z",
-   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317328117/",
-   "organizer": "Founder's District (previously District 5 Toastmasters)",
-   "venue": "Denny's, 4280 Clairemont Mesa Blvd",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/a/6/2/e/highres_492402542.jpeg",
-   "description": "Toastmaster's Club 1394: Hardhats\nHelping you develop in speaking, leadership, and life... and having fun while doing it!\n\nWe are a hybrid club - hone your skills in-person and/or on Zoom!\n\nThis Toastmasters club is one of the finest places you can learn to speak in public with confidence and connection. We love to laugh and learn at each meeting. Experienced speakers provide helpful quality feedback, we video your speeches to help you accelerate your development, and our supportive audience of fellow members delight in helping you progress.\n\nFun and Friendly Members...\n\nOur members cover…",
-   "free": true
-  },
-  {
    "id": "meetup:317443997",
    "source": "meetup",
    "title": "Build Passive Income With AI: Live Workshop",
@@ -901,18 +705,6 @@
    "free": true
   },
   {
-   "id": "meetup:316721990",
-   "source": "meetup",
-   "title": "Online: SD Python Saturday Study Group",
-   "start": "2026-11-28T18:00:00.000Z",
-   "end": "2026-11-28T20:00:00.000Z",
-   "url": "https://www.meetup.com/pythonsd/events/316721990/",
-   "organizer": "San Diego Python Users Group",
-   "online": true,
-   "description": "We are continuing our Study group online for the time being.\nWe are now meeting online in the San Diego Python Discord server! Here is the link to join: https://discord.gg/8GpWuVvdbQ\nThere is a \"meetup\" voice/video channel that we will be using!\n\nWe may start meeting in person soon! This will be discussed at the meetup. We are considering having some online, some in-person. Decisions, decisions!\n\nEvery Saturday we meet up with the larger Python community (including San Diego PyLadies (http://www.meetup.com/sd-pyladies), Open BioInformatics San Diego…",
-   "free": true
-  },
-  {
    "id": "meetup:317343059",
    "source": "meetup",
    "title": "🌍 English Practice | Meet Friends (Professional Host)",
@@ -923,6 +715,18 @@
    "online": true,
    "image": "https://secure.meetupstatic.com/photos/event/8/5/f/1/highres_535354289.jpeg",
    "description": "Practice English online in a fun, supportive space, for free!\nGet real-time speaking experience, meet new people, and improve fast with guided feedback.\n🔑 What to Expect:\n✅ Live 1-on-1 Conversations\n\n Chat with different partners at your level\n Each round = 3-5 min vocab warmup + 12 min speaking\n Repeat and improve with every session!\n\n✅ AI Matching + Feedback\n\n Our smart system pairs you with learners at the same level\n Get instant tips & corrections on pronunciation, vocabulary and grammar.\n\n✅ Come & Go Anytime\n\n Stay for one round or all four, you’re always welcome!\n\n💬 Why Learners Love…",
+   "free": true
+  },
+  {
+   "id": "meetup:316721990",
+   "source": "meetup",
+   "title": "Online: SD Python Saturday Study Group",
+   "start": "2026-11-28T18:00:00.000Z",
+   "end": "2026-11-28T20:00:00.000Z",
+   "url": "https://www.meetup.com/pythonsd/events/316721990/",
+   "organizer": "San Diego Python Users Group",
+   "online": true,
+   "description": "We are continuing our Study group online for the time being.\nWe are now meeting online in the San Diego Python Discord server! Here is the link to join: https://discord.gg/8GpWuVvdbQ\nThere is a \"meetup\" voice/video channel that we will be using!\n\nWe may start meeting in person soon! This will be discussed at the meetup. We are considering having some online, some in-person. Decisions, decisions!\n\nEvery Saturday we meet up with the larger Python community (including San Diego PyLadies (http://www.meetup.com/sd-pyladies), Open BioInformatics San Diego…",
    "free": true
   },
   {
@@ -939,6 +743,19 @@
    "image": "https://secure.meetupstatic.com/photos/event/7/c/0/2/highres_536611746.jpeg",
    "description": "Let’s meetup for Space Yacht!\n\nTickets 👉https://ravemeetup.short.gy/Nova112826\nLimited FREE RSVPS at announcement. Lock in RSVPS before the paid tier.\nMore shows 👉https://www.RaveLoop.com\n\n👋 Please visit our sponsor site 👉https://www.RaveMeetup.com\n\nSPACE YACHT\nℹ️ Click here for more info.\n▶️ Click here for recap video!\n\nLimited FREE Entry RSVPs are available with the link above. Once the RSVPs are out, you must buy a ticket if you want to see the artists inside of the venue. The \"FREE\" shown by meetup.com means it's only free to meetup with members. Sorry for any…",
    "free": true
+  },
+  {
+   "id": "eventbrite:2004686796172",
+   "source": "eventbrite",
+   "title": "Space Yacht: Tech My House at NOVA SD — Free Guest List | Sat, Nov 28",
+   "start": "2026-11-29T06:00:00.000Z",
+   "end": "2026-11-29T10:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/space-yacht-tech-my-house-at-nova-sd-free-guest-list-sat-nov-28-tickets-2004686796172",
+   "venue": "NOVA SD, 454 Sixth Avenue",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197728106%2F104000318639%2F1%2Foriginal.20261110-232038?auto=format%2Ccompress&q=75&sharp=10&s=074c2548443983d4854062a0d1d9e73d",
+   "description": "Space Yacht: Tech My House at NOVA SD on Nov 28. Free promoter guest list before 11 PM. 21+, capacity and approval apply."
   },
   {
    "id": "meetup:317444340",
@@ -983,17 +800,17 @@
    "free": true
   },
   {
-   "id": "meetup:317371356",
-   "source": "meetup",
-   "title": "🌍 English Practice | Meet Friends (Professional Host)",
-   "start": "2026-11-30T18:00:00.000Z",
-   "end": "2026-11-30T19:00:00.000Z",
-   "url": "https://www.meetup.com/founders-san-diego/events/317371356/",
-   "organizer": "🤝 Founders for Founders | San Diego",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/8/5/f/1/highres_535354289.jpeg",
-   "description": "Practice English online in a fun, supportive space, for free!\nGet real-time speaking experience, meet new people, and improve fast with guided feedback.\n🔑 What to Expect:\n✅ Live 1-on-1 Conversations\n\n Chat with different partners at your level\n Each round = 3-5 min vocab warmup + 12 min speaking\n Repeat and improve with every session!\n\n✅ AI Matching + Feedback\n\n Our smart system pairs you with learners at the same level\n Get instant tips & corrections on pronunciation, vocabulary and grammar.\n\n✅ Come & Go Anytime\n\n Stay for one round or all four, you’re always welcome!\n\n💬 Why Learners Love…",
-   "free": true
+   "id": "eventbrite:2004256574367",
+   "source": "eventbrite",
+   "title": "EvoNexus Demo Day 2026: 22 Startups Pitch, You Pick the Winner",
+   "start": "2026-11-30T23:00:00.000Z",
+   "end": "2026-12-01T03:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/evonexus-demo-day-2026-22-startups-pitch-you-pick-the-winner-tickets-2004256574367",
+   "venue": "5775 Morehouse Dr, 5775 Morehouse Drive",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197303925%2F2851174659211%2F1%2Foriginal.20261104-225018?auto=format%2Ccompress&q=75&sharp=10&s=e45fad7266429c54ced936cfccc4908d",
+   "description": "22 SoCal startups. 3-minute pitches. Live demos. You vote for the winner. Mon, Nov 30 at Qualcomm's Jacobs Hall."
   },
   {
    "id": "meetup:317478385",
@@ -1006,6 +823,19 @@
    "online": true,
    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\nhttps://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-in-2027-tickets-2004751317156?aff=oddtdtcreator&keeptld=true\nLook ahead to the new year and prepare yourself with the right skills in today's economy.\nThe job market is in a…",
    "free": true
+  },
+  {
+   "id": "eventbrite:2003100134424",
+   "source": "eventbrite",
+   "title": "Future Founders",
+   "start": "2026-12-01T00:00:00.000Z",
+   "end": "2026-12-01T02:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/future-founders-tickets-2003100134424",
+   "venue": "Pizza On Pearl North Park, 3914 30th Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196635222%2F345448664331%2F1%2Foriginal.20261026-212001?auto=format%2Ccompress&q=75&sharp=10&s=3c8fe0d24b68edaaf58a96cd23d6a677",
+   "description": "Get ready to brainstorm big ideas and meet fellow future founders in a chill, fun hangout."
   },
   {
    "id": "meetup:317499690",
@@ -1035,34 +865,6 @@
    "free": false
   },
   {
-   "id": "meetup:317311746",
-   "source": "meetup",
-   "title": "Startups, Investors, Professionals: Pitch & Networking Event",
-   "start": "2026-12-01T03:00:00.000Z",
-   "end": "2026-12-01T05:00:00.000Z",
-   "url": "https://www.meetup.com/san-diego-startups-pitch-and-networking-group/events/317311746/",
-   "organizer": "San Diego Startups Pitch and Networking Group",
-   "venue": "Wine Girl San Diego, 460 Fifth Ave Ste 2-113, San Diego, CA 92101, USA",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/5/a/4/highres_537001444.jpeg",
-   "description": "✨ To join this event, please make sure to book your ticket here 👉 https://www.eventbrite.com/e/san-diego-startups-investors-professionals-pitch-networking-event-tickets-2003768065223\n\nSpaces are limited, and only registered guests with a ticket will be able to attend. Don’t miss out!\n\nConnect with startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.\nThis isn’t your average networking event—it’s a high-energy evening centered around live pitching, real conversations, and new opportunities.\nEveryone attending is welcome to pitch.…",
-   "free": true
-  },
-  {
-   "id": "eventbrite:2003768921785",
-   "source": "eventbrite",
-   "title": "StartUps, Founders,  Investors, Talent Networking & Pitch San Diego",
-   "start": "2026-12-01T03:00:00.000Z",
-   "end": "2026-12-01T06:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/startups-founders-investors-talent-networking-pitch-san-diego-tickets-2003768921785",
-   "venue": "460 Fifth Ave, Wine Girl, 460 Fifth Avenue",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196356746%2F2108009601763%2F1%2Foriginal.20261022-121745?auto=format%2Ccompress&q=75&sharp=10&s=aafe385f84db017e29e62977e1533c41",
-   "description": "Join us for an evening of business-focused networking, bringing together entrepreneurs, startup founders, investors, and professionals."
-  },
-  {
    "id": "eventbrite:2003770824476",
    "source": "eventbrite",
    "title": "San Diego Startup Founders, Innovators & Investors Networking Night",
@@ -1089,6 +891,34 @@
    "description": "Connect with startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities."
   },
   {
+   "id": "eventbrite:2003768921785",
+   "source": "eventbrite",
+   "title": "StartUps, Founders,  Investors, Talent Networking & Pitch San Diego",
+   "start": "2026-12-01T03:00:00.000Z",
+   "end": "2026-12-01T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/startups-founders-investors-talent-networking-pitch-san-diego-tickets-2003768921785",
+   "venue": "460 Fifth Ave, Wine Girl, 460 Fifth Avenue",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196356746%2F2108009601763%2F1%2Foriginal.20261022-121745?auto=format%2Ccompress&q=75&sharp=10&s=aafe385f84db017e29e62977e1533c41",
+   "description": "Join us for an evening of business-focused networking, bringing together entrepreneurs, startup founders, investors, and professionals."
+  },
+  {
+   "id": "meetup:317311746",
+   "source": "meetup",
+   "title": "Startups, Investors, Professionals: Pitch & Networking Event",
+   "start": "2026-12-01T03:00:00.000Z",
+   "end": "2026-12-01T05:00:00.000Z",
+   "url": "https://www.meetup.com/san-diego-startups-pitch-and-networking-group/events/317311746/",
+   "organizer": "San Diego Startups Pitch and Networking Group",
+   "venue": "Wine Girl San Diego, 460 Fifth Ave Ste 2-113, San Diego, CA 92101, USA",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://secure.meetupstatic.com/photos/event/5/a/4/highres_537001444.jpeg",
+   "description": "✨ To join this event, please make sure to book your ticket here 👉 https://www.eventbrite.com/e/san-diego-startups-investors-professionals-pitch-networking-event-tickets-2003768065223\n\nSpaces are limited, and only registered guests with a ticket will be able to attend. Don’t miss out!\n\nConnect with startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.\nThis isn’t your average networking event—it’s a high-energy evening centered around live pitching, real conversations, and new opportunities.\nEveryone attending is welcome to pitch.…",
+   "free": true
+  },
+  {
    "id": "eventbrite:2003840295265",
    "source": "eventbrite",
    "title": "From Germany to SoCal: Energy & CleanTech Markets Insights Breakfast",
@@ -1099,7 +929,7 @@
    "city": "San Diego",
    "online": false,
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197956949%2F2834627101501%2F1%2Foriginal.20261114-002218?auto=format%2Ccompress&q=75&sharp=10&s=ae502d8dcdb1e936ff86a0a3d0b061a9",
-   "description": "Free San Diego breakfast: keynote on AI-era data centers, pitches by seven German clean-tech companies, and 1:1 meetings."
+   "description": "Free San Diego breakfast: keynote and panel on AI-era data centers, pitches by seven German clean-tech companies, and 1:1 meetings."
   },
   {
    "id": "meetup:311371535",
@@ -1117,19 +947,6 @@
    "free": true
   },
   {
-   "id": "meetup:317383796",
-   "source": "meetup",
-   "title": "San Diego Tech Coffee Online",
-   "start": "2026-12-01T17:00:00.000Z",
-   "end": "2026-12-01T19:00:00.000Z",
-   "url": "https://www.meetup.com/sandiego-tech-coffee/events/317383796/",
-   "organizer": "San Diego Tech Coffee",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/8/1/f/3/highres_532893267.jpeg",
-   "description": "The San Diego Tech Coffee Online is an informal gathering of people interested in startups, technology and/or business, modeled after the weekly in person San Diego Tech Coffee gatherings in San Diego, CA. This is an experiment to see if the related communities would value getting together online, sharing projects for which they need feedback and asking questions of other members.\n\nJoin us online at - https://us02web.zoom.us/j/87824413514?pwd=Bdvs5mc16JwPN1BmRwURd2K8AUrvUI.1\n\nOr, Dial in via Phone:\n253-215-8782\n\nMeeting ID: 878 2441 3514\nPasscode: 019617\n\nIn between our Tech Coffee, check out…",
-   "free": true
-  },
-  {
    "id": "meetup:317498236",
    "source": "meetup",
    "title": "[Virtual] Google Agents in Production for Enterprises with Oracle",
@@ -1143,16 +960,29 @@
    "free": true
   },
   {
-   "id": "meetup:317384651",
+   "id": "meetup:317383796",
    "source": "meetup",
-   "title": "🌍 English Practice | Meet Friends (Professional Host)",
+   "title": "San Diego Tech Coffee Online",
+   "start": "2026-12-01T17:00:00.000Z",
+   "end": "2026-12-01T19:00:00.000Z",
+   "url": "https://www.meetup.com/sandiego-tech-coffee/events/317383796/",
+   "organizer": "San Diego Tech Coffee",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/8/1/f/3/highres_532893267.jpeg",
+   "description": "The San Diego Tech Coffee Online is an informal gathering of people interested in startups, technology and/or business, modeled after the weekly in person San Diego Tech Coffee gatherings in San Diego, CA. This is an experiment to see if the related communities would value getting together online, sharing projects for which they need feedback and asking questions of other members.\n\nJoin us online at - https://us02web.zoom.us/j/87824413514?pwd=Bdvs5mc16JwPN1BmRwURd2K8AUrvUI.1\n\nOr, Dial in via Phone:\n253-215-8782\n\nMeeting ID: 878 2441 3514\nPasscode: 019617\n\nIn between our Tech Coffee, check out…",
+   "free": true
+  },
+  {
+   "id": "meetup:317384824",
+   "source": "meetup",
+   "title": "AI Wrote it.  Who tested it?",
    "start": "2026-12-01T18:00:00.000Z",
    "end": "2026-12-01T19:00:00.000Z",
-   "url": "https://www.meetup.com/founders-san-diego/events/317384651/",
-   "organizer": "🤝 Founders for Founders | San Diego",
+   "url": "https://www.meetup.com/software-quality-assurance/events/317384824/",
+   "organizer": "Software Testing",
    "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/8/5/f/1/highres_535354289.jpeg",
-   "description": "Practice English online in a fun, supportive space, for free!\nGet real-time speaking experience, meet new people, and improve fast with guided feedback.\n🔑 What to Expect:\n✅ Live 1-on-1 Conversations\n\n Chat with different partners at your level\n Each round = 3-5 min vocab warmup + 12 min speaking\n Repeat and improve with every session!\n\n✅ AI Matching + Feedback\n\n Our smart system pairs you with learners at the same level\n Get instant tips & corrections on pronunciation, vocabulary and grammar.\n\n✅ Come & Go Anytime\n\n Stay for one round or all four, you’re always welcome!\n\n💬 Why Learners Love…",
+   "image": "https://secure.meetupstatic.com/photos/event/1/3/a/9/highres_537125033.jpeg",
+   "description": "AI makes coding instant. Who makes it reliable?\n\nEveryone is leveraging AI to build software, but shipping a true, rapidly evolving commercial product requires absolute trust.\n\nJoin Testing AI Generated Code, a community of over 1,300+ software engineers cutting through the generative AI hype.\n\nHosted by Vesh Thakker (Founder of 50 Ants and ex-Raytheon aerospace systems engineer), we meet regularly to explore automated agentic testing, black-box verification, and how to defend your production pipelines against AI-generated regressions across security, performance, and functionality.",
    "free": true
   },
   {
@@ -1169,29 +999,16 @@
    "free": true
   },
   {
-   "id": "meetup:317384412",
+   "id": "meetup:317384651",
    "source": "meetup",
-   "title": "🤝 Conversations for Founders | F4F",
+   "title": "🌍 English Practice | Meet Friends (Professional Host)",
    "start": "2026-12-01T18:00:00.000Z",
    "end": "2026-12-01T19:00:00.000Z",
-   "url": "https://www.meetup.com/founders-san-diego/events/317384412/",
+   "url": "https://www.meetup.com/founders-san-diego/events/317384651/",
    "organizer": "🤝 Founders for Founders | San Diego",
    "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/a/e/f/9/highres_535304793.jpeg",
-   "description": "Founders for Founders brings you Real conversations for Entrepreneurs building Startups around the world. Every Wednesday.\nTalk it out, build it better.\n\n This is a special FREE weekly event for founders around the world: you can check out The Founders for Founders Website for more info.\n\nBuilding something is a rollercoaster, and it's a whole lot better with people who get it. Founders for Founders is our weekly get-together where you meet other entrepreneurs, talk through what you're working on, and leave with fresh ideas and new connections.\n\nHere's how it works:\n\n ⏱️ One hour, once a week:…",
-   "free": true
-  },
-  {
-   "id": "meetup:317384824",
-   "source": "meetup",
-   "title": "AI Wrote it.  Who tested it?",
-   "start": "2026-12-01T18:00:00.000Z",
-   "end": "2026-12-01T19:00:00.000Z",
-   "url": "https://www.meetup.com/software-quality-assurance/events/317384824/",
-   "organizer": "Software Testing",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/1/3/a/9/highres_537125033.jpeg",
-   "description": "AI makes coding instant. Who makes it reliable?\n\nEveryone is leveraging AI to build software, but shipping a true, rapidly evolving commercial product requires absolute trust.\n\nJoin Testing AI Generated Code, a community of over 1,300+ software engineers cutting through the generative AI hype.\n\nHosted by Vesh Thakker (Founder of 50 Ants and ex-Raytheon aerospace systems engineer), we meet regularly to explore automated agentic testing, black-box verification, and how to defend your production pipelines against AI-generated regressions across security, performance, and functionality.",
+   "image": "https://secure.meetupstatic.com/photos/event/8/5/f/1/highres_535354289.jpeg",
+   "description": "Practice English online in a fun, supportive space, for free!\nGet real-time speaking experience, meet new people, and improve fast with guided feedback.\n🔑 What to Expect:\n✅ Live 1-on-1 Conversations\n\n Chat with different partners at your level\n Each round = 3-5 min vocab warmup + 12 min speaking\n Repeat and improve with every session!\n\n✅ AI Matching + Feedback\n\n Our smart system pairs you with learners at the same level\n Get instant tips & corrections on pronunciation, vocabulary and grammar.\n\n✅ Come & Go Anytime\n\n Stay for one round or all four, you’re always welcome!\n\n💬 Why Learners Love…",
    "free": true
   },
   {
@@ -1244,19 +1061,6 @@
    "online": false,
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196438282%2F2682446774211%2F1%2Foriginal.20261023-124408?auto=format%2Ccompress&q=75&sharp=10&s=e14f555eb4b4fac1f34ee97926208d26",
    "description": "Connect with HealthTech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities."
-  },
-  {
-   "id": "meetup:317392021",
-   "source": "meetup",
-   "title": "Felicita Toastmasters Club in Escondido",
-   "start": "2026-12-02T03:00:00.000Z",
-   "end": "2026-12-02T04:30:00.000Z",
-   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317392021/",
-   "organizer": "Founder's District (previously District 5 Toastmasters)",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/c/1/8/0/highres_18169536.jpeg",
-   "description": "1. Come in and be a guest!\n2. Have fun!\n\nVisitors are always welcome at our meetings. We meet every Tuesday from 7:00 pm to 8:30 pm.\n\nWe currently meet online only.\n\nFor more information about our Toastmasters Club and/or attending a meeting, please contact shadpour@gmail.com",
-   "free": true
   },
   {
    "id": "eventbrite:2003831098758",
@@ -1330,18 +1134,6 @@
    "free": true
   },
   {
-   "id": "meetup:317494096",
-   "source": "meetup",
-   "title": "Start 2027 Strong: Plan Your Job Search NOW!",
-   "start": "2026-12-02T17:00:00.000Z",
-   "end": "2026-12-02T18:00:00.000Z",
-   "url": "https://www.meetup.com/san-diego-entrepreneur-and-investor-network/events/317494096/",
-   "organizer": "San Diego Entrepreneur and Investor Network",
-   "online": true,
-   "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\nhttps://www.eventbrite.com/e/start-2027-strong-plan-your-job-search-now-tickets-2004747157715?aff=oddtdtcreator&keeptld=true\nGet ahead of the 2027 search and strategize before the holidays hit.\nDon’t wait until the end of the year to plan your…",
-   "free": true
-  },
-  {
    "id": "meetup:308421031",
    "source": "meetup",
    "title": "San Diego Tech Coffee Meetup",
@@ -1354,6 +1146,18 @@
    "online": false,
    "image": "https://secure.meetupstatic.com/photos/event/9/0/1/1/highres_534576881.jpeg",
    "description": "Del Mar Highlands Sky Deck\n\nThe San Diego Tech Coffee is in its 16th year of being the largest weekly gathering of entrepreneurs and tech people in San Diego.\n\nStop by for networking, sharing, brainstorming, mentoring, etc. And we love it when people want to share what they are working on!\n\nThere is no agenda, which means you can't be late - come when you can, leave when you need to. Very informal.\n\nNew to the San Diego startup community? Or just want to be better connected? Check out the Startup San Diego \"Startup Ecosystem Resource List\" at https://startupsd.org/resources/.",
+   "free": true
+  },
+  {
+   "id": "meetup:317494096",
+   "source": "meetup",
+   "title": "Start 2027 Strong: Plan Your Job Search NOW!",
+   "start": "2026-12-02T17:00:00.000Z",
+   "end": "2026-12-02T18:00:00.000Z",
+   "url": "https://www.meetup.com/san-diego-entrepreneur-and-investor-network/events/317494096/",
+   "organizer": "San Diego Entrepreneur and Investor Network",
+   "online": true,
+   "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\nhttps://www.eventbrite.com/e/start-2027-strong-plan-your-job-search-now-tickets-2004747157715?aff=oddtdtcreator&keeptld=true\nGet ahead of the 2027 search and strategize before the holidays hit.\nDon’t wait until the end of the year to plan your…",
    "free": true
   },
   {
@@ -1408,15 +1212,16 @@
    "description": "Larger Than Life Science is an event series open to everyone interested in building a strong support network for biotech & the life sciences"
   },
   {
-   "id": "meetup:317405791",
+   "id": "meetup:317505196",
    "source": "meetup",
-   "title": "Golden Triangle Toastmasters",
-   "start": "2026-12-03T01:30:00.000Z",
+   "title": "Who Gets a Say in AI? Mapping the Power and Your Place in It",
+   "start": "2026-12-03T01:00:00.000Z",
    "end": "2026-12-03T02:30:00.000Z",
-   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317405791/",
-   "organizer": "Founder's District (previously District 5 Toastmasters)",
+   "url": "https://www.meetup.com/ai-safety-awareness-group-san-diego/events/317505196/",
+   "organizer": "AI Safety Awareness Group San Diego",
    "online": true,
-   "description": "JOIN Golden Triangle Toastmasters for the BEST HOUR of your week! We meet every Wednesday from 5:30-6:45pm ONLINE!\n\nWe are a FUN diverse group that practices public speaking in a safe and friendly environment. And did we mention we like to have FUN!?!?\n\nToastmasters is an International Organization of clubs dedicated to empowering individuals to become more effective communicators, polished public speakers and leaders, all in a fun, safe, inclusive, and supportive environment.\n\nThe meeting includes: Formal speeches, Speech Evaluations and Impromptu speaking opportunities for guests and…",
+   "image": "https://secure.meetupstatic.com/photos/event/8/3/a/3/highres_537213699.jpeg",
+   "description": "A free, 90-minute online workshop—no technical background needed\nAI is rapidly reshaping society, but a small number of companies, researchers, and political actors currently have outsized influence over where this technology goes next. The question is: who gets a say in the future of AI, and how can ordinary people meaningfully influence it?\nThis workshop explores the competing visions currently shaping AI development, from Silicon Valley accelerationism to AI safety advocates, governments, artists, workers, and the broader public.\nTogether, we'll discuss questions like:\n\n Who is currently…",
    "free": true
   },
   {
@@ -1433,17 +1238,17 @@
    "description": "Join us for a night of celebration as we near the holidays! Enjoy a delicious buffet style dinner and celebrate our newly elected leaders."
   },
   {
-   "id": "eventbrite:2003306327152",
+   "id": "eventbrite:2003306249921",
    "source": "eventbrite",
-   "title": "Blockchain and Business Networking | Elevating Your Potential - San Diego",
+   "title": "Tech and Business Networking | Elevating Your Potential - San Diego",
    "start": "2026-12-03T02:00:00.000Z",
    "end": "2026-12-03T04:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-san-diego-tickets-2003306327152",
+   "url": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-san-diego-tickets-2003306249921",
    "venue": "GARAGE Kitchen + Bar, 655 Fourth Avenue",
    "city": "San Diego",
    "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F921025213%2F2244249934723%2F1%2Foriginal.20241220-162042?auto=format%2Ccompress&q=75&sharp=10&s=da87db5f14dd134f29c996c6d7b16809",
-   "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets"
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F921016023%2F2244249934723%2F1%2Foriginal.20241220-160756?auto=format%2Ccompress&q=75&sharp=10&s=c7c90fd98cfb376ea198baa56ddb4ed6",
+   "description": "Strive welcomes you to 'Tech and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
   },
   {
    "id": "eventbrite:2003306354233",
@@ -1457,6 +1262,19 @@
    "online": false,
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F921071763%2F2244249934723%2F1%2Foriginal.20241220-173313?auto=format%2Ccompress&q=75&sharp=10&s=188d950237b6277306da3cb2bcdd7da8",
    "description": "Strive welcomes you to 'Engineering and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+."
+  },
+  {
+   "id": "eventbrite:2003306327152",
+   "source": "eventbrite",
+   "title": "Blockchain and Business Networking | Elevating Your Potential - San Diego",
+   "start": "2026-12-03T02:00:00.000Z",
+   "end": "2026-12-03T04:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-san-diego-tickets-2003306327152",
+   "venue": "GARAGE Kitchen + Bar, 655 Fourth Avenue",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F921025213%2F2244249934723%2F1%2Foriginal.20241220-162042?auto=format%2Ccompress&q=75&sharp=10&s=da87db5f14dd134f29c996c6d7b16809",
+   "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets"
   },
   {
    "id": "meetup:317445641",
@@ -1474,17 +1292,28 @@
    "free": true
   },
   {
-   "id": "eventbrite:2003306249921",
+   "id": "eventbrite:1992377654197",
    "source": "eventbrite",
-   "title": "Tech and Business Networking | Elevating Your Potential - San Diego",
-   "start": "2026-12-03T02:00:00.000Z",
-   "end": "2026-12-03T04:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-san-diego-tickets-2003306249921",
-   "venue": "GARAGE Kitchen + Bar, 655 Fourth Avenue",
+   "title": "Got Brand? Branding Meetup for Founders & Creatives",
+   "start": "2026-12-03T02:30:00.000Z",
+   "end": "2026-12-03T03:30:00.000Z",
+   "url": "https://www.eventbrite.com/e/got-brand-branding-meetup-for-founders-creatives-tickets-1992377654197",
+   "venue": "Original 40 Brewing Company, 3117 University Avenue",
    "city": "San Diego",
    "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F921016023%2F2244249934723%2F1%2Foriginal.20241220-160756?auto=format%2Ccompress&q=75&sharp=10&s=c7c90fd98cfb376ea198baa56ddb4ed6",
-   "description": "Strive welcomes you to 'Tech and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187423071%2F176226795481%2F1%2Foriginal.20260622-192750?auto=format%2Ccompress&q=75&sharp=10&s=3bb11cecebfcc3b064d0e04bb4b66d91",
+   "description": "Bring your ideas, branding questions, or business challenges. Get feedback, insights, and conversation in a relaxed setting."
+  },
+  {
+   "id": "meetup:317411469",
+   "source": "meetup",
+   "title": "BOSS Club | Online Business Strategy & Networking for Entrepreneurs",
+   "start": "2026-12-03T14:30:00.000Z",
+   "end": "2026-12-03T15:30:00.000Z",
+   "url": "https://www.meetup.com/california-online-business-network/events/317411469/",
+   "organizer": "California Online Business Networking",
+   "online": true,
+   "free": true
   },
   {
    "id": "eventbrite:1997565886339",
@@ -1568,21 +1397,6 @@
    "free": true
   },
   {
-   "id": "meetup:317424820",
-   "source": "meetup",
-   "title": "Mastering Presentations, Liberty Toastmasters - In Person",
-   "start": "2026-12-04T03:00:00.000Z",
-   "end": "2026-12-04T04:30:00.000Z",
-   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317424820/",
-   "organizer": "Founder's District (previously District 5 Toastmasters)",
-   "venue": "St. Paul's Conference Center, 2557 Third Avenue",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/7/f/0/4/highres_536192516.jpeg",
-   "description": "Do you need to prepare for a major presentation, job interview or wedding speech?\nJoin us to master your speaking—in a small group, one speech at a time, and at your own pace. At Liberty Toastmasters, we use the structure of the meeting to practice different types of speech.\n\nMeetings are held from 7-8:30 pm every Thursday evening. The doors open at 6:45.\n\nOur basic meeting format:\n\n7:05 pm - Meeting Called to Order\n7:06 pm - Miscellaneous preliminary business\n7:15 pm - Table Topics (impromptu speaking where everyone participates)\nBreak\n8 pm - Prepared speeches (usually 2 speeches)\n8:15 pm -…",
-   "free": true
-  },
-  {
    "id": "meetup:317424830",
    "source": "meetup",
    "title": "SDBUG Meeting",
@@ -1594,6 +1408,36 @@
    "city": "San Diego",
    "online": false,
    "description": "The San Diego BSD Users Group (SDBUG) is for people interested in the Berkeley Software Distribution versions (FreeBSD, NetBSD, OpenBSD, ...) of Unix. All people interested in Unix/Linux are welcome.\n\nWe discuss BSD, F/OSS, and other related topics.",
+   "free": true
+  },
+  {
+   "id": "meetup:317424883",
+   "source": "meetup",
+   "title": "Mastering Presentations, Liberty Toastmasters - In Person",
+   "start": "2026-12-04T03:00:00.000Z",
+   "end": "2026-12-04T04:30:00.000Z",
+   "url": "https://www.meetup.com/founders-district-toastmasters/events/317424883/",
+   "organizer": "Orange Cty + San Diego County Toastmasters Founders District",
+   "venue": "St. Paul's Conference Center, 2557 Third Avenue",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://secure.meetupstatic.com/photos/event/9/d/a/0/highres_535660352.jpeg",
+   "description": "Do you need to prepare for a major presentation, job interview or wedding speech?\n\nJoin us to master your speaking—in a small group, one speech at a time, and at your own pace. At Liberty Toastmasters, we use the structure of the meeting to practice different types of speech.\n\nMeetings are held from 7-8:30 pm every Thursday evening. The doors open at 6:45.\n\nOur basic meeting format:\n7:05 pm - Meeting Called to Order\n7:06 pm - Miscellaneous business announcements\n7:15 pm - Table Topics (impromptu speaking, everyone participates)\nBreak\n8 pm - Prepared speeches (usually 2 speeches)\n8:15 pm -…",
+   "free": true
+  },
+  {
+   "id": "meetup:317429028",
+   "source": "meetup",
+   "title": "Hardhats Toastmasters: Meeting In-Person AND Virtually",
+   "start": "2026-12-04T15:00:00.000Z",
+   "end": "2026-12-04T16:30:00.000Z",
+   "url": "https://www.meetup.com/san-diego-district-5-toastmasters-meetup-group/events/317429028/",
+   "organizer": "Founder's District (previously District 5 Toastmasters)",
+   "venue": "Denny's, 4280 Clairemont Mesa Blvd",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://secure.meetupstatic.com/photos/event/a/6/2/e/highres_492402542.jpeg",
+   "description": "Toastmaster's Club 1394: Hardhats\nHelping you develop in speaking, leadership, and life... and having fun while doing it!\n\nWe are a hybrid club - hone your skills in-person and/or on Zoom!\n\nThis Toastmasters club is one of the finest places you can learn to speak in public with confidence and connection. We love to laugh and learn at each meeting. Experienced speakers provide helpful quality feedback, we video your speeches to help you accelerate your development, and our supportive audience of fellow members delight in helping you progress.\n\nFun and Friendly Members...\n\nOur members cover…",
    "free": true
   },
   {
@@ -1653,18 +1497,6 @@
    "free": true
   },
   {
-   "id": "meetup:317442680",
-   "source": "meetup",
-   "title": "Online: SD Python Saturday Study Group",
-   "start": "2026-12-05T18:00:00.000Z",
-   "end": "2026-12-05T20:00:00.000Z",
-   "url": "https://www.meetup.com/pythonsd/events/317442680/",
-   "organizer": "San Diego Python Users Group",
-   "online": true,
-   "description": "We are continuing our Study group online for the time being.\nWe are now meeting online in the San Diego Python Discord server! Here is the link to join: https://discord.gg/8GpWuVvdbQ\nThere is a \"meetup\" voice/video channel that we will be using!\n\nWe may start meeting in person soon! This will be discussed at the meetup. We are considering having some online, some in-person. Decisions, decisions!\n\nEvery Saturday we meet up with the larger Python community (including San Diego PyLadies (http://www.meetup.com/sd-pyladies), Open BioInformatics San Diego…",
-   "free": true
-  },
-  {
    "id": "meetup:317442578",
    "source": "meetup",
    "title": "REMOTE: Pyladies/San Diego PUG Co-Study Group",
@@ -1674,6 +1506,18 @@
    "organizer": "PyLadies San Diego",
    "online": true,
    "description": "We are continuing our Study group online for the time being.\n\nWe are now meeting online in the San Diego Python Discord server! Here is the link to join: https://discord.gg/8GpWuVvdbQ\nThere is a \"meetup\" voice/video channel that we will be using!\n\nThe SD Python User Group Meetup is https://www.meetup.com/pythonsd/ - there is a Saturday Study group hosted by the SD Python Meetup group.\n\nEvery Saturday we meet up with the larger Python community to chat, learn, and hang out. Our study group is for everyone on their Python journey, whether you're just starting out, you're an experienced pro, or…",
+   "free": true
+  },
+  {
+   "id": "meetup:317442680",
+   "source": "meetup",
+   "title": "Online: SD Python Saturday Study Group",
+   "start": "2026-12-05T18:00:00.000Z",
+   "end": "2026-12-05T20:00:00.000Z",
+   "url": "https://www.meetup.com/pythonsd/events/317442680/",
+   "organizer": "San Diego Python Users Group",
+   "online": true,
+   "description": "We are continuing our Study group online for the time being.\nWe are now meeting online in the San Diego Python Discord server! Here is the link to join: https://discord.gg/8GpWuVvdbQ\nThere is a \"meetup\" voice/video channel that we will be using!\n\nWe may start meeting in person soon! This will be discussed at the meetup. We are considering having some online, some in-person. Decisions, decisions!\n\nEvery Saturday we meet up with the larger Python community (including San Diego PyLadies (http://www.meetup.com/sd-pyladies), Open BioInformatics San Diego…",
    "free": true
   },
   {
@@ -1705,6 +1549,19 @@
    "image": "https://secure.meetupstatic.com/photos/event/2/a/7/4/highres_536950868.jpeg",
    "description": "For our December meetup we are going to join the festivities at December Nights, one of the biggest free holiday festivals in the city.\nOn Saturday we will meet from 6:30-7:30 PM at the adult beverage area (ID required to enter), which in the past was in the area adjacent to the Palisades Parking lot, close to the Recital Hall. The December Nights festival starts at noon on Saturday and goes until 10 PM, so come early or stay late to enjoy the activities, open museums, free entertainment, and general merriment of the season.\n\nThe adult beverage area usually has mulled wine - aka gloggs - and…",
    "free": true
+  },
+  {
+   "id": "eventbrite:1908040022069",
+   "source": "eventbrite",
+   "title": "Dinner with Entrepreneurs: Small Town Edition | Santee",
+   "start": "2026-12-06T03:00:00.000Z",
+   "end": "2026-12-06T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/dinner-with-entrepreneurs-small-town-edition-santee-tickets-1908040022069",
+   "venue": "Restaurant of the Week, Town Center Parkway",
+   "city": "Santee",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1072365433%2F2821698611161%2F1%2Foriginal.20250713-041413?auto=format%2Ccompress&q=75&sharp=10&s=a19dd56428841aa0c92f8db9b5953f7c",
+   "description": "Dinner with Entrepreneurs series for cities under 100,000 population. Meet others in your town over fun food and a relaxed atmosphere!"
   },
   {
    "id": "meetup:317470376",
@@ -1764,19 +1621,6 @@
    "free": true
   },
   {
-   "id": "meetup:317484497",
-   "source": "meetup",
-   "title": "San Diego Tech Coffee Online",
-   "start": "2026-12-08T17:00:00.000Z",
-   "end": "2026-12-08T19:00:00.000Z",
-   "url": "https://www.meetup.com/sandiego-tech-coffee/events/317484497/",
-   "organizer": "San Diego Tech Coffee",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/8/1/f/3/highres_532893267.jpeg",
-   "description": "The San Diego Tech Coffee Online is an informal gathering of people interested in startups, technology and/or business, modeled after the weekly in person San Diego Tech Coffee gatherings in San Diego, CA. This is an experiment to see if the related communities would value getting together online, sharing projects for which they need feedback and asking questions of other members.\n\nJoin us online at - https://us02web.zoom.us/j/87824413514?pwd=Bdvs5mc16JwPN1BmRwURd2K8AUrvUI.1\n\nOr, Dial in via Phone:\n253-215-8782\n\nMeeting ID: 878 2441 3514\nPasscode: 019617\n\nIn between our Tech Coffee, check out…",
-   "free": true
-  },
-  {
    "id": "meetup:317415268",
    "source": "meetup",
    "title": "Dec 8 - How to Let Long-tail Guide Your 3D Annotation Workshop",
@@ -1787,6 +1631,19 @@
    "online": true,
    "image": "https://secure.meetupstatic.com/photos/event/d/b/3/highres_537123507.jpeg",
    "description": "Join us on Dec 8 for the “How to Let Long-tail Guide Your 3D Annotation” workshop with Eric Hofesmann.\n\nDate, Time and Location\n\nDec 08, 2026\n9:00 AM - 10:00 AM PST\nOnline. Register for the Zoom!\n\nAutonomous driving models rarely fail on the common case. They fail on the long-tail: the pedestrian stepping out from behind a parked truck or a construction zone that matches nothing in the training set. Each of those moments lives in synchronized multi-sensor data, made up of a LiDAR sweep, a ring of cameras, a timestamp, and a calibration. Fixing one means finding it, labeling it in 3D, and…",
+   "free": true
+  },
+  {
+   "id": "meetup:317484497",
+   "source": "meetup",
+   "title": "San Diego Tech Coffee Online",
+   "start": "2026-12-08T17:00:00.000Z",
+   "end": "2026-12-08T19:00:00.000Z",
+   "url": "https://www.meetup.com/sandiego-tech-coffee/events/317484497/",
+   "organizer": "San Diego Tech Coffee",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/8/1/f/3/highres_532893267.jpeg",
+   "description": "The San Diego Tech Coffee Online is an informal gathering of people interested in startups, technology and/or business, modeled after the weekly in person San Diego Tech Coffee gatherings in San Diego, CA. This is an experiment to see if the related communities would value getting together online, sharing projects for which they need feedback and asking questions of other members.\n\nJoin us online at - https://us02web.zoom.us/j/87824413514?pwd=Bdvs5mc16JwPN1BmRwURd2K8AUrvUI.1\n\nOr, Dial in via Phone:\n253-215-8782\n\nMeeting ID: 878 2441 3514\nPasscode: 019617\n\nIn between our Tech Coffee, check out…",
    "free": true
   },
   {
@@ -1818,18 +1675,17 @@
    "free": true
   },
   {
-   "id": "luma:evt-LZs97VcAASj0M9H",
-   "source": "luma",
-   "title": "San Diego Robotics & Physical AI Network — Holiday Happy Hour",
-   "start": "2026-12-09T01:00:00.000Z",
+   "id": "eventbrite:2004257047783",
+   "source": "eventbrite",
+   "title": "BVS' Holiday Biotech Scientific Innovation Expo at Green Acre Campus Point",
+   "start": "2026-12-09T00:30:00.000Z",
    "end": "2026-12-09T03:00:00.000Z",
-   "url": "https://luma.com/1an9zkib",
-   "organizer": "Simplexity Product Development",
-   "venue": "Duck Foot Brewing, 8920 Kenamar Dr #210, San Diego, CA 92121, USA",
+   "url": "https://www.eventbrite.com/e/bvs-holiday-biotech-scientific-innovation-expo-at-green-acre-campus-point-tickets-2004257047783",
+   "venue": "Green Acre Campus Point, 10300 Campus Point Drive",
    "city": "San Diego",
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/zz/75c06f27-f32f-46af-bddd-f8b66a0d6b79.png",
-   "free": true
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F883506203%2F196664607675%2F1%2Foriginal.20241025-163522?auto=format%2Ccompress&q=75&sharp=10&s=f98fbc81caaa997c60bb48465c868e04",
+   "description": "BVS' Holiday Biotech Scientific Innovation Expo at Green Acre Campus Point in San Diego"
   },
   {
    "id": "luma:evt-DFhzHZAfwJiqcpl",
@@ -1845,17 +1701,18 @@
    "free": true
   },
   {
-   "id": "eventbrite:2004073293168",
-   "source": "eventbrite",
-   "title": "Tech Networking Event In  San Diego",
-   "start": "2026-12-09T02:30:00.000Z",
-   "end": "2026-12-09T05:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/tech-networking-event-in-san-diego-tickets-2004073293168",
-   "venue": "AleSmith Brewing Company, 9990 AleSmith Court",
+   "id": "luma:evt-LZs97VcAASj0M9H",
+   "source": "luma",
+   "title": "San Diego Robotics & Physical AI Network — Holiday Happy Hour",
+   "start": "2026-12-09T01:00:00.000Z",
+   "end": "2026-12-09T03:00:00.000Z",
+   "url": "https://luma.com/1an9zkib",
+   "organizer": "Simplexity Product Development",
+   "venue": "Duck Foot Brewing, 8920 Kenamar Dr #210, San Diego, CA 92121, USA",
    "city": "San Diego",
    "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F977847543%2F1924315149053%2F1%2Foriginal.20250307-120745?auto=format%2Ccompress&q=75&sharp=10&s=7018adf835b31ab95d30488bcb41b54e",
-   "description": "SAN DIEGO TECH NETWORKING EVENT. You Have To Get Tickets Here Online In Advance. Tickets Not Available At Venue Door"
+   "image": "https://images.lumacdn.com/uploads/zz/75c06f27-f32f-46af-bddd-f8b66a0d6b79.png",
+   "free": true
   },
   {
    "id": "eventbrite:2004073800686",
@@ -1869,6 +1726,47 @@
    "online": false,
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F991460693%2F1924315149053%2F1%2Foriginal.20250324-185914?auto=format%2Ccompress&q=75&sharp=10&s=9c6fa1ed58cb09f4f38b96895f7e9c64",
    "description": "SAN DIEGO NETWORKING EVENT: This Is A PrePay Only Event. You Have To Get Tickets Here Online In Advance. Tickets Not Available At Venue Door"
+  },
+  {
+   "id": "eventbrite:2004073293168",
+   "source": "eventbrite",
+   "title": "Tech Networking Event In  San Diego",
+   "start": "2026-12-09T02:30:00.000Z",
+   "end": "2026-12-09T05:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/tech-networking-event-in-san-diego-tickets-2004073293168",
+   "venue": "AleSmith Brewing Company, 9990 AleSmith Court",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F977847543%2F1924315149053%2F1%2Foriginal.20250307-120745?auto=format%2Ccompress&q=75&sharp=10&s=7018adf835b31ab95d30488bcb41b54e",
+   "description": "SAN DIEGO TECH NETWORKING EVENT. You Have To Get Tickets Here Online In Advance. Tickets Not Available At Venue Door"
+  },
+  {
+   "id": "meetup:317312213",
+   "source": "meetup",
+   "title": "AI & Tech Startups, Investors, Innovators Networking Mixer",
+   "start": "2026-12-09T03:00:00.000Z",
+   "end": "2026-12-09T05:00:00.000Z",
+   "url": "https://www.meetup.com/san-diego-startups-pitch-and-networking-group/events/317312213/",
+   "organizer": "San Diego Startups Pitch and Networking Group",
+   "venue": "Wine Girl San Diego, 460 Fifth Ave Ste 2-113, San Diego, CA 92101, USA",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://secure.meetupstatic.com/photos/event/7/3/f/highres_537001855.jpeg",
+   "description": "✨ To join this event, please make sure to book your ticket here 👉 https://www.eventbrite.com/e/san-diego-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164461856\n\nSpaces are limited, and only registered guests with a ticket will be able to attend. Don’t miss out!\n\nDiscover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.\nPitch & Networking Event: AI & Machine Learning\nStep into the world of AI innovation and connect with the people building the future.\nThis high-energy event brings together founders, investors, and…",
+   "free": true
+  },
+  {
+   "id": "eventbrite:2004165594243",
+   "source": "eventbrite",
+   "title": "San Diego AI & Tech Industry Professionals Networking Event",
+   "start": "2026-12-09T03:00:00.000Z",
+   "end": "2026-12-09T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/san-diego-ai-tech-industry-professionals-networking-event-tickets-2004165594243",
+   "venue": "Wine Girl San Diego, 460 Fifth Avenue",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196985244%2F2977316171831%2F1%2Foriginal.20261031-140031?auto=format%2Ccompress&q=75&sharp=10&s=eafc07c673da840f64d13bce1f075701",
+   "description": "Connect with AI enthusiasts, technology professionals, startup founders, and business leaders driving the digital world forward!"
   },
   {
    "id": "eventbrite:2004164461856",
@@ -1897,34 +1795,6 @@
    "description": "AI & Machine Learning Networking Night: Connecting Startups, Investors, Service Providers and Professionals."
   },
   {
-   "id": "eventbrite:2004165594243",
-   "source": "eventbrite",
-   "title": "San Diego AI & Tech Industry Professionals Networking Event",
-   "start": "2026-12-09T03:00:00.000Z",
-   "end": "2026-12-09T06:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/san-diego-ai-tech-industry-professionals-networking-event-tickets-2004165594243",
-   "venue": "Wine Girl San Diego, 460 Fifth Avenue",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196985244%2F2977316171831%2F1%2Foriginal.20261031-140031?auto=format%2Ccompress&q=75&sharp=10&s=eafc07c673da840f64d13bce1f075701",
-   "description": "Connect with AI enthusiasts, technology professionals, startup founders, and business leaders driving the digital world forward!"
-  },
-  {
-   "id": "meetup:317312213",
-   "source": "meetup",
-   "title": "AI & Tech Startups, Investors, Innovators Networking Mixer",
-   "start": "2026-12-09T03:00:00.000Z",
-   "end": "2026-12-09T05:00:00.000Z",
-   "url": "https://www.meetup.com/san-diego-startups-pitch-and-networking-group/events/317312213/",
-   "organizer": "San Diego Startups Pitch and Networking Group",
-   "venue": "Wine Girl San Diego, 460 Fifth Ave Ste 2-113, San Diego, CA 92101, USA",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/7/3/f/highres_537001855.jpeg",
-   "description": "✨ To join this event, please make sure to book your ticket here 👉 https://www.eventbrite.com/e/san-diego-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164461856\n\nSpaces are limited, and only registered guests with a ticket will be able to attend. Don’t miss out!\n\nDiscover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.\nPitch & Networking Event: AI & Machine Learning\nStep into the world of AI innovation and connect with the people building the future.\nThis high-energy event brings together founders, investors, and…",
-   "free": true
-  },
-  {
    "id": "meetup:317164734",
    "source": "meetup",
    "title": "PyData Global 2026",
@@ -1950,19 +1820,6 @@
    "free": true
   },
   {
-   "id": "eventbrite:2004246348782",
-   "source": "eventbrite",
-   "title": "IMAPS San Diego Chapter Annual Holiday Winter Social",
-   "start": "2026-12-10T01:30:00.000Z",
-   "end": "2026-12-13T04:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/imaps-san-diego-chapter-annual-holiday-winter-social-tickets-2004246348782",
-   "venue": "Casa Machado Restaurant, 3750 John J Montgomery Drive",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197103103%2F104996654509%2F1%2Foriginal.20261102-182454?auto=format%2Ccompress&q=75&sharp=10&s=31bbeea4843d8497bbe7929be9494876",
-   "description": "Join us for a wonderful and festive social. Enjoy the holiday cheer with friends and a Mexican buffet."
-  },
-  {
    "id": "luma:evt-sW5vBXxdmNsl8DL",
    "source": "luma",
    "title": "MOB WIFE : Entrepreneur Holiday Party + Networking",
@@ -1975,6 +1832,19 @@
    "image": "https://images.lumacdn.com/uploads/wm/a8ba0830-8911-467b-acb7-d44288f4698b.png",
    "description": "A fierce community of diverse female entrepreneurs who blend grit with grace. \nOur mission? To empower each other with the resources, mindset, and strategies to accelerate our businesses!",
    "free": false
+  },
+  {
+   "id": "eventbrite:2004246348782",
+   "source": "eventbrite",
+   "title": "IMAPS San Diego Chapter Annual Holiday Winter Social",
+   "start": "2026-12-10T01:30:00.000Z",
+   "end": "2026-12-13T04:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/imaps-san-diego-chapter-annual-holiday-winter-social-tickets-2004246348782",
+   "venue": "Casa Machado Restaurant, 3750 John J Montgomery Drive",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197103103%2F104996654509%2F1%2Foriginal.20261102-182454?auto=format%2Ccompress&q=75&sharp=10&s=31bbeea4843d8497bbe7929be9494876",
+   "description": "Join us for a wonderful and festive social. Enjoy the holiday cheer with friends and a Mexican buffet."
   },
   {
    "id": "meetup:317459447",
@@ -2103,6 +1973,21 @@
    "free": true
   },
   {
+   "id": "meetup:315445823",
+   "source": "meetup",
+   "title": "Autonomous Vehicle (RC) - Beginners and Builders (with Beer)",
+   "start": "2026-12-15T02:00:00.000Z",
+   "end": "2026-12-15T04:00:00.000Z",
+   "url": "https://www.meetup.com/roboticsclub/events/315445823/",
+   "organizer": "San Diego Robotics Club",
+   "venue": "Coronado Brewing Company San Diego Tasting Room, 1205 Knoxville St",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://secure.meetupstatic.com/photos/event/6/c/5/7/highres_512547735.jpeg",
+   "description": "On the 2nd Monday of the month we have our monthly Autonomous Vehicles Builders and Beginners event at a local brewery. It is presented by members of the San Diego Robotics group.\n\nThe project is DIY and for open source autonomous cars of any size, from tiny 1:28th scale to full-size. Primarily we build cars which use AI/CNN based on the Donkey framework( http://docs.donkeycar.com ).\n\nIf you want to start a DonkeyCar Project (Donkey Car), please bring your kits, and we will have experts who can help you out. If you want to just come out and hang out with the club members, pick up a BOM…",
+   "free": true
+  },
+  {
    "id": "meetup:312350905",
    "source": "meetup",
    "title": "Autonomous Vehicle (RC) - Beginners and Builders (with Beer) part of DIYRoboCars",
@@ -2118,18 +2003,16 @@
    "free": true
   },
   {
-   "id": "meetup:315445823",
+   "id": "meetup:312625449",
    "source": "meetup",
-   "title": "Autonomous Vehicle (RC) - Beginners and Builders (with Beer)",
-   "start": "2026-12-15T02:00:00.000Z",
+   "title": "Mega Masterminds",
+   "start": "2026-12-15T03:00:00.000Z",
    "end": "2026-12-15T04:00:00.000Z",
-   "url": "https://www.meetup.com/roboticsclub/events/315445823/",
-   "organizer": "San Diego Robotics Club",
-   "venue": "Coronado Brewing Company San Diego Tasting Room, 1205 Knoxville St",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://secure.meetupstatic.com/photos/event/6/c/5/7/highres_512547735.jpeg",
-   "description": "On the 2nd Monday of the month we have our monthly Autonomous Vehicles Builders and Beginners event at a local brewery. It is presented by members of the San Diego Robotics group.\n\nThe project is DIY and for open source autonomous cars of any size, from tiny 1:28th scale to full-size. Primarily we build cars which use AI/CNN based on the Donkey framework( http://docs.donkeycar.com ).\n\nIf you want to start a DonkeyCar Project (Donkey Car), please bring your kits, and we will have experts who can help you out. If you want to just come out and hang out with the club members, pick up a BOM…",
+   "url": "https://www.meetup.com/sdbell/events/312625449/",
+   "organizer": "Black Entrepreneurs Leaders & Learners (BELL)",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/2/5/8/a/highres_500949610.jpeg",
+   "description": "Come join us for our Mega Masterminds featuring business owners, entrepreneurs and more who can help you excel in your business!",
    "free": true
   },
   {
@@ -2146,17 +2029,17 @@
    "description": "Connect with inspiring women in artificial intelligence, technology, startups and digital innovation!"
   },
   {
-   "id": "meetup:312625449",
-   "source": "meetup",
-   "title": "Mega Masterminds",
+   "id": "eventbrite:2003144291499",
+   "source": "eventbrite",
+   "title": "San Diego Women in Tech: Founders & Professionals Networking Night",
    "start": "2026-12-15T03:00:00.000Z",
-   "end": "2026-12-15T04:00:00.000Z",
-   "url": "https://www.meetup.com/sdbell/events/312625449/",
-   "organizer": "Black Entrepreneurs Leaders & Learners (BELL)",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/2/5/8/a/highres_500949610.jpeg",
-   "description": "Come join us for our Mega Masterminds featuring business owners, entrepreneurs and more who can help you excel in your business!",
-   "free": true
+   "end": "2026-12-15T05:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/san-diego-women-in-tech-founders-professionals-networking-night-tickets-2003144291499",
+   "venue": "Craft & Commerce, 675 West Beech Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195370375%2F2682446774211%2F1%2Foriginal.20261008-143732?auto=format%2Ccompress&q=75&sharp=10&s=a1dc0844b8cb6da5bb0e38931d353b67",
+   "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships."
   },
   {
    "id": "meetup:317312146",
@@ -2187,19 +2070,6 @@
    "description": "Connect, Collaborate & Grow with Inspiring Women in Business, Tech & Entrepreneurship!"
   },
   {
-   "id": "eventbrite:2003144291499",
-   "source": "eventbrite",
-   "title": "San Diego Women in Tech: Founders & Professionals Networking Night",
-   "start": "2026-12-15T03:00:00.000Z",
-   "end": "2026-12-15T05:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/san-diego-women-in-tech-founders-professionals-networking-night-tickets-2003144291499",
-   "venue": "Craft & Commerce, 675 West Beech Street",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195370375%2F2682446774211%2F1%2Foriginal.20261008-143732?auto=format%2Ccompress&q=75&sharp=10&s=a1dc0844b8cb6da5bb0e38931d353b67",
-   "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships."
-  },
-  {
    "id": "meetup:317471057",
    "source": "meetup",
    "title": "AI Wrote it.  Who tested it?",
@@ -2226,6 +2096,19 @@
    "description": "Connect, converse, and unwind with Biointron at AET 2026!"
   },
   {
+   "id": "meetup:316844262",
+   "source": "meetup",
+   "title": "Open Models vs Closed AI - Beyond Gemini & Claude",
+   "start": "2026-12-16T03:00:00.000Z",
+   "end": "2026-12-16T04:30:00.000Z",
+   "url": "https://www.meetup.com/humansoulai/events/316844262/",
+   "organizer": "HumanSoulAI",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/c/6/2/a/highres_536450730.jpeg",
+   "description": "The future of AI may come down to one fundamental question: Will AI be open—or controlled by a handful of companies?\n\nToday, many of the world’s most capable AI systems—such as ChatGPT, Claude, and Gemini—are developed behind closed doors. At the same time, open and open-weight models are rapidly gaining ground, allowing developers and organizations to download, modify, run, and build powerful AI systems themselves.\n\nIn this live online event, we’ll explore this growing divide: Open Models vs. Closed AI—and how the rise of open-weight models could reshape the future of artificial…",
+   "free": true
+  },
+  {
    "id": "eventbrite:2003199790498",
    "source": "eventbrite",
    "title": "Tech Startups, Investors, Professionals Pitch & Networking San Diego",
@@ -2239,17 +2122,17 @@
    "description": "Join us at San DiegoTech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!"
   },
   {
-   "id": "eventbrite:2004513655303",
+   "id": "eventbrite:2004582801120",
    "source": "eventbrite",
-   "title": "Tech Founders & Digital Innovation Networking & Pitch San Diego",
+   "title": "San Diego Tech Startups, Investors, Experts Networking & Pitch Event",
    "start": "2026-12-16T03:00:00.000Z",
    "end": "2026-12-16T06:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/tech-founders-digital-innovation-networking-pitch-san-diego-tickets-2004513655303",
-   "venue": "675 W Beech St, Craft & Commerce, 675 West Beech Street",
+   "url": "https://www.eventbrite.com/e/san-diego-tech-startups-investors-experts-networking-pitch-event-tickets-2004582801120",
+   "venue": "Craft & Commerce, 675 West Beech Street",
    "city": "San Diego",
    "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196952352%2F2108009601763%2F1%2Foriginal.20261030-192739?auto=format%2Ccompress&q=75&sharp=10&s=ac9d1a5cb619167013a2208ce2083748",
-   "description": "Building something exciting? Looking for the right people to help take it further?"
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195440126%2F2682446774211%2F1%2Foriginal.20261009-111403?auto=format%2Ccompress&q=75&sharp=10&s=183d2b72ddd1c9c9f3719ac7d74f30b3",
+   "description": "Connect with tech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities."
   },
   {
    "id": "eventbrite:2004513397532",
@@ -2265,17 +2148,30 @@
    "description": "Connect with Tech Founders, Entrepreneurs, Investors & Innovators — Network, Pitch & Discover New Opportunities!"
   },
   {
-   "id": "meetup:316844262",
-   "source": "meetup",
-   "title": "Open Models vs Closed AI - Beyond Gemini & Claude",
+   "id": "eventbrite:2004513655303",
+   "source": "eventbrite",
+   "title": "Tech Founders & Digital Innovation Networking & Pitch San Diego",
    "start": "2026-12-16T03:00:00.000Z",
-   "end": "2026-12-16T04:30:00.000Z",
-   "url": "https://www.meetup.com/humansoulai/events/316844262/",
-   "organizer": "HumanSoulAI",
-   "online": true,
-   "image": "https://secure.meetupstatic.com/photos/event/c/6/2/a/highres_536450730.jpeg",
-   "description": "The future of AI may come down to one fundamental question: Will AI be open—or controlled by a handful of companies?\n\nToday, many of the world’s most capable AI systems—such as ChatGPT, Claude, and Gemini—are developed behind closed doors. At the same time, open and open-weight models are rapidly gaining ground, allowing developers and organizations to download, modify, run, and build powerful AI systems themselves.\n\nIn this live online event, we’ll explore this growing divide: Open Models vs. Closed AI—and how the rise of open-weight models could reshape the future of artificial…",
-   "free": true
+   "end": "2026-12-16T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/tech-founders-digital-innovation-networking-pitch-san-diego-tickets-2004513655303",
+   "venue": "675 W Beech St, Craft & Commerce, 675 West Beech Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196952352%2F2108009601763%2F1%2Foriginal.20261030-192739?auto=format%2Ccompress&q=75&sharp=10&s=ac9d1a5cb619167013a2208ce2083748",
+   "description": "Building something exciting? Looking for the right people to help take it further?"
+  },
+  {
+   "id": "eventbrite:2004513408565",
+   "source": "eventbrite",
+   "title": "San Diego Future Tech: Startups & Digital Innovation Networking Mixer",
+   "start": "2026-12-16T03:00:00.000Z",
+   "end": "2026-12-16T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/san-diego-future-tech-startups-digital-innovation-networking-mixer-tickets-2004513408565",
+   "venue": "675 W Beech St, Craft & Commerce, 675 West Beech Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196865605%2F2682446774211%2F1%2Foriginal.20261029-161812?auto=format%2Ccompress&q=75&sharp=10&s=67e6381ffdafa8fba649b95b3069bdf3",
+   "description": "Where bold ideas, emerging technologies and ambitious people come together."
   },
   {
    "id": "meetup:317059915",
@@ -2293,32 +2189,6 @@
    "free": true
   },
   {
-   "id": "eventbrite:2004513408565",
-   "source": "eventbrite",
-   "title": "San Diego Future Tech: Startups & Digital Innovation Networking Mixer",
-   "start": "2026-12-16T03:00:00.000Z",
-   "end": "2026-12-16T06:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/san-diego-future-tech-startups-digital-innovation-networking-mixer-tickets-2004513408565",
-   "venue": "675 W Beech St, Craft & Commerce, 675 West Beech Street",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196865605%2F2682446774211%2F1%2Foriginal.20261029-161812?auto=format%2Ccompress&q=75&sharp=10&s=67e6381ffdafa8fba649b95b3069bdf3",
-   "description": "Where bold ideas, emerging technologies and ambitious people come together."
-  },
-  {
-   "id": "eventbrite:2004582801120",
-   "source": "eventbrite",
-   "title": "San Diego Tech Startups, Investors, Experts Networking & Pitch Event",
-   "start": "2026-12-16T03:00:00.000Z",
-   "end": "2026-12-16T06:00:00.000Z",
-   "url": "https://www.eventbrite.com/e/san-diego-tech-startups-investors-experts-networking-pitch-event-tickets-2004582801120",
-   "venue": "Craft & Commerce, 675 West Beech Street",
-   "city": "San Diego",
-   "online": false,
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195440126%2F2682446774211%2F1%2Foriginal.20261009-111403?auto=format%2Ccompress&q=75&sharp=10&s=183d2b72ddd1c9c9f3719ac7d74f30b3",
-   "description": "Connect with tech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities."
-  },
-  {
    "id": "meetup:317332345",
    "source": "meetup",
    "title": "San Diego Cyber Group Meetup (December 2026 event)",
@@ -2331,6 +2201,21 @@
    "online": false,
    "image": "https://secure.meetupstatic.com/photos/event/5/e/9/3/highres_537024211.jpeg",
    "description": "This is a fun meetup for the San Diego cyber community. Hosted by David Spark of the CISO Series. We'll have conversations about cyber, a few silly games, and a guided discussion.\n\nWe're open to your suggestions.\nAnd we're looking for help. Message us if you'd like to get involved in the event.\n\nWe'll have food and drink for the first 80 people who show up!\n\nThis event is ONLY for people who work in cybersecurity or who are studying cybersecurity.\n\nHUGE thanks to our sponsor, IONIX.",
+   "free": true
+  },
+  {
+   "id": "meetup:316561862",
+   "source": "meetup",
+   "title": "San Diego Arduino Enthusiasts",
+   "start": "2026-12-17T03:00:00.000Z",
+   "end": "2026-12-17T05:00:00.000Z",
+   "url": "https://www.meetup.com/san-diego-hardware-startups-network/events/316561862/",
+   "organizer": "San Diego Hardware-Startups Network",
+   "venue": "Steal and Escape, 2602 Transportation Ave Suite A",
+   "city": "National City",
+   "online": false,
+   "image": "https://secure.meetupstatic.com/photos/event/3/5/1/3/highres_527293587.jpeg",
+   "description": "Please join us at our monthly meeting$1 7pm on the third Wednesday$1 The Escape Room Steal & Escape graciously allow us to use their space$1 Please enter through the door under the \"A $1 ROYALE WEAR\" sign$1\nLat/Lon 32°39'35.6\"N 117°06'09.1\"W\nGoogle Maps: https://maps.app.goo.gl/zGrMUfKtBgo1rtnc8\n\nTonight --\nWe will continue with the development of the low-power PCB arduino project:\n\n1. demonstrate programming the WeAct STM32G431CB boards and as time allows: 2) drive the OLED display, 3) Explore low power modes of the STM32G431CB\n\nBring your WeAct dev kit!\n\nWhat we're about\nThe purpose of this…",
    "free": true
   },
   {
@@ -2347,6 +2232,19 @@
    "description": "No hype. No complex jargon. Build a practical AI-assisted workflow, test it safely, and leave with a clear implementation plan for you"
   },
   {
+   "id": "meetup:312625656",
+   "source": "meetup",
+   "title": "Stock Talk",
+   "start": "2026-12-18T03:00:00.000Z",
+   "end": "2026-12-18T05:00:00.000Z",
+   "url": "https://www.meetup.com/sdbell/events/312625656/",
+   "organizer": "Black Entrepreneurs Leaders & Learners (BELL)",
+   "online": true,
+   "image": "https://secure.meetupstatic.com/photos/event/5/9/4/2/highres_509062850.jpeg",
+   "description": "Join us as we talk about the Stock Market and Crypto!",
+   "free": true
+  },
+  {
    "id": "eventbrite:2001256694646",
    "source": "eventbrite",
    "title": "Stem Lab",
@@ -2358,6 +2256,47 @@
    "online": false,
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193688762%2F2555463973511%2F1%2Foriginal.20260916-195153?auto=format%2Ccompress&q=75&sharp=10&s=271186ea6ba66357ab3947d4fd3797e5",
    "description": "Spooky science, real learning!\nHands-on STEM activities with a Halloween twist. Be thankful for science!\nExplore how STEM makes our world."
+  },
+  {
+   "id": "meetup:317471507",
+   "source": "meetup",
+   "title": "Diving deeper into software development discussions",
+   "start": "2026-12-20T01:00:00.000Z",
+   "end": "2026-12-20T03:00:00.000Z",
+   "url": "https://www.meetup.com/san-diego-software-development-deep-dive/events/317471507/",
+   "organizer": "San Diego Software Development Deep Dive",
+   "venue": "Clem's Tap House, 4108 Adams Ave",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://secure.meetupstatic.com/photos/event/5/b/c/6/highres_469523494.jpeg",
+   "description": "• What we'll do\nCome join in discussions about Vim, Emacs, Linux, Elixir, Erlang, OTP, Lisp, Haskell, Ruby, Javascript, Functional Programming, Object Oriented Programming, Blockchain, HashGraph, Distributed Systems, Decentralized Systems, and whatever peaks your interest.\n\n• What to bring\nA laptop, good questions, exciting ideas, an open mind and a positive attitude.\n\n• Where to meet\nMeet by the corn hole game in the back and look for others with laptops.\nAsk for others that are there for the software discussion group.\n\n• Alternate location\nSome nights the Rabbit Hole has live music. I was…",
+   "free": true
+  },
+  {
+   "id": "eventbrite:2004949872039",
+   "source": "eventbrite",
+   "title": "San Diego Biotechnology Industry Networking and Pitch Event",
+   "start": "2027-01-12T03:00:00.000Z",
+   "end": "2027-01-12T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/san-diego-biotechnology-industry-networking-and-pitch-event-tickets-2004949872039",
+   "venue": "675 W Beech St, Craft & Commerce, 675 West Beech Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198154189%2F2682446774211%2F1%2Foriginal.20261117-123311?auto=format%2Ccompress&q=75&sharp=10&s=7d7fbb60ae64e4988332f96244b43417",
+   "description": "Bringing together the people behind scientific discoveries, innovative businesses and the next generation of biotechnology."
+  },
+  {
+   "id": "eventbrite:2004946837964",
+   "source": "eventbrite",
+   "title": "BioTech, MedTech, Pharma Networking & Pitch Event San Diego",
+   "start": "2027-01-12T03:00:00.000Z",
+   "end": "2027-01-12T06:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-san-diego-tickets-2004946837964",
+   "venue": "675 W Beech St, Craft & Commerce, 675 West Beech Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195864398%2F2108009601763%2F1%2Foriginal.20261015-135012?auto=format%2Ccompress&q=75&sharp=10&s=46cf80a572854a4de7665af52d607e6c",
+   "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders."
   },
   {
    "id": "luma:evt-jcOSGLXu3MUqFPF",
@@ -2413,6 +2352,19 @@
    "image": "https://images.lumacdn.com/uploads/x9/47d61dc5-1a23-4c06-88e5-76d9ca5bbf4f.png",
    "description": "Intuit is committed to open source. We maintain and contribute to many tools and actively participate in communities including CNCF, Istio, GraphQL, Web, and Mobile ecosystems. Let's meetup, devs!",
    "free": true
+  },
+  {
+   "id": "eventbrite:2000364213210",
+   "source": "eventbrite",
+   "title": "HUSTLE San Diego Entrepreneur Networking Event",
+   "start": "2027-01-15T01:00:00.000Z",
+   "end": "2027-01-15T04:00:00.000Z",
+   "url": "https://www.eventbrite.co.uk/e/hustle-san-diego-entrepreneur-networking-event-tickets-2000364213210",
+   "venue": "GARAGE Kitchen + Bar, 655 Fourth Avenue, San Diego, CA, 92101",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193485261%2F138789452760%2F1%2Foriginal.20260914-200716?auto=format%2Ccompress&q=75&sharp=10&s=85b091277d2ffc9cdb852b74a8971df0",
+   "description": "HUSTLE San Diego Entrepreneur Networking Event"
   },
   {
    "id": "luma:evt-9LsNFbawoHCSTwv",
@@ -2521,6 +2473,19 @@
    "online": false,
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190069666%2F1759093315813%2F1%2Foriginal.20260731-221429?auto=format%2Ccompress&q=75&sharp=10&s=4d92084fbef92bf76d73e35af60a851e",
    "description": "Join us at the 5th HMI symposium in La Jolla, CA, where leaders in human milk research and application share their insights and discoveries."
+  },
+  {
+   "id": "eventbrite:1995423763191",
+   "source": "eventbrite",
+   "title": "Technology Marketing Summit 2027 - SD Networking Events",
+   "start": "2027-03-18T23:00:00.000Z",
+   "end": "2027-03-19T03:00:00.000Z",
+   "url": "https://www.eventbrite.com/e/technology-marketing-summit-2027-sd-networking-events-tickets-1995423763191",
+   "venue": "UC San Diego Park & Market, 1100 Market Street",
+   "city": "San Diego",
+   "online": false,
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1128547543%2F1796490014%2F1%2Foriginal.20250918-193222?auto=format%2Ccompress&q=75&sharp=10&s=52da26059470b942ad96c4452bf7a4db",
+   "description": "Technology Summit 2027 - Technology Summit brings together industry experts, thought leaders, and professionals."
   }
  ]
 }
